@@ -1,0 +1,1001 @@
+Date,Category,Merchant,Amount,Payment_Method,Location,Note,Year,Month,Day
+2025-09-16,Bills,Electricity,3729.47,Debit Card,Aurangabad,Bills expense at Electricity,2025,September,Tuesday
+2025-04-17,Entertainment,Gaming Zone,512.38,Cash,Mumbai,Entertainment expense at Gaming Zone,2025,April,Thursday
+2026-01-15,Health,Pharmacy,3848.08,Cash,Aurangabad,Health expense at Pharmacy,2026,January,Thursday
+2025-10-16,Entertainment,Gaming Zone,155.99,Credit Card,Mumbai,Entertainment expense at Gaming Zone,2025,October,Thursday
+2025-02-01,Travel,Bus,4683.68,UPI,Bangalore,Travel expense at Bus,2025,February,Saturday
+2025-03-13,Bills,Electricity,3143.34,Cash,Pune,Bills expense at Electricity,2025,March,Thursday
+2025-06-27,Travel,Uber,4037.59,Credit Card,Mumbai,Travel expense at Uber,2025,June,Friday
+2026-03-22,Travel,Bus,57.72,Credit Card,Pune,Travel expense at Bus,2026,March,Sunday
+2026-04-14,Education,Udemy,2171.26,Debit Card,Pune,Education expense at Udemy,2026,April,Tuesday
+2025-03-21,Education,Coursera,3788.13,Cash,Bangalore,Education expense at Coursera,2025,March,Friday
+2026-04-16,Education,Udemy,769.73,UPI,Mumbai,Education expense at Udemy,2026,April,Thursday
+2025-04-16,Food,Cafe Coffee Day,3631.71,UPI,Delhi,Food expense at Cafe Coffee Day,2025,April,Wednesday
+2025-02-24,Entertainment,Netflix,3204.38,Credit Card,Mumbai,Entertainment expense at Netflix,2025,February,Monday
+2026-02-15,Health,Hospital,2262.31,Credit Card,Mumbai,Health expense at Hospital,2026,February,Sunday
+2025-12-08,Travel,Ola,3926.27,Debit Card,Mumbai,Travel expense at Ola,2025,December,Monday
+2026-03-22,Travel,Train,3797.42,Cash,Pune,Travel expense at Train,2026,March,Sunday
+2025-02-01,Shopping,Flipkart,1720.23,Credit Card,Mumbai,Shopping expense at Flipkart,2025,February,Saturday
+2025-08-24,Education,Books Store,4224.66,Debit Card,Delhi,Education expense at Books Store,2025,August,Sunday
+2025-05-24,Bills,Internet,1420.38,Credit Card,Delhi,Bills expense at Internet,2025,May,Saturday
+2025-03-23,Health,Pharmacy,4319.84,Cash,Mumbai,Health expense at Pharmacy,2025,March,Sunday
+2025-06-06,Education,Coursera,2430.1,Debit Card,Aurangabad,Education expense at Coursera,2025,June,Friday
+2025-11-20,Education,Coursera,928.29,Credit Card,Pune,Education expense at Coursera,2025,November,Thursday
+2025-12-18,Shopping,Amazon,3659.42,Credit Card,Mumbai,Shopping expense at Amazon,2025,December,Thursday
+2025-08-20,Health,Hospital,961.29,UPI,Delhi,Health expense at Hospital,2025,August,Wednesday
+2025-12-21,Entertainment,Netflix,3012.43,Debit Card,Aurangabad,Entertainment expense at Netflix,2025,December,Sunday
+2025-02-01,Health,Pharmacy,2936.08,Debit Card,Aurangabad,Health expense at Pharmacy,2025,February,Saturday
+2025-11-27,Entertainment,Netflix,1384.97,Cash,Bangalore,Entertainment expense at Netflix,2025,November,Thursday
+2025-09-28,Education,Udemy,844.07,Debit Card,Mumbai,Education expense at Udemy,2025,September,Sunday
+2025-04-10,Education,Coursera,2990.86,Cash,Bangalore,Education expense at Coursera,2025,April,Thursday
+2025-08-22,Shopping,Flipkart,3001.73,Debit Card,Pune,Shopping expense at Flipkart,2025,August,Friday
+2025-11-12,Shopping,Mall,890.8,Cash,Mumbai,Shopping expense at Mall,2025,November,Wednesday
+2025-07-12,Bills,Water Bill,4636.49,Credit Card,Aurangabad,Bills expense at Water Bill,2025,July,Saturday
+2026-02-24,Education,Udemy,2514.31,Debit Card,Mumbai,Education expense at Udemy,2026,February,Tuesday
+2026-01-13,Entertainment,Netflix,533.1,UPI,Delhi,Entertainment expense at Netflix,2026,January,Tuesday
+2025-06-14,Entertainment,Netflix,942.74,Credit Card,Bangalore,Entertainment expense at Netflix,2025,June,Saturday
+2025-06-20,Health,Pharmacy,3381.85,Debit Card,Bangalore,Health expense at Pharmacy,2025,June,Friday
+2025-02-04,Education,Books Store,4361.36,Debit Card,Bangalore,Education expense at Books Store,2025,February,Tuesday
+2025-03-27,Travel,Uber,4926.48,Debit Card,Mumbai,Travel expense at Uber,2025,March,Thursday
+2025-08-07,Education,Coursera,2905.21,Cash,Aurangabad,Education expense at Coursera,2025,August,Thursday
+2026-02-27,Travel,Ola,593.92,Credit Card,Mumbai,Travel expense at Ola,2026,February,Friday
+2025-03-14,Health,Gym,4452.81,UPI,Mumbai,Health expense at Gym,2025,March,Friday
+2025-08-30,Food,Cafe Coffee Day,2345.5,UPI,Bangalore,Food expense at Cafe Coffee Day,2025,August,Saturday
+2025-05-17,Travel,Uber,3095.64,UPI,Bangalore,Travel expense at Uber,2025,May,Saturday
+2025-03-11,Health,Hospital,2986.4,UPI,Pune,Health expense at Hospital,2025,March,Tuesday
+2025-07-15,Entertainment,Gaming Zone,4539.25,Debit Card,Aurangabad,Entertainment expense at Gaming Zone,2025,July,Tuesday
+2025-02-02,Bills,Internet,4855.81,Credit Card,Mumbai,Bills expense at Internet,2025,February,Sunday
+2026-01-20,Travel,Uber,2131.69,Cash,Bangalore,Travel expense at Uber,2026,January,Tuesday
+2026-01-05,Bills,Internet,2647.29,Cash,Bangalore,Bills expense at Internet,2026,January,Monday
+2026-03-27,Health,Gym,712.08,Credit Card,Bangalore,Health expense at Gym,2026,March,Friday
+2025-04-19,Entertainment,Netflix,3199.41,Credit Card,Bangalore,Entertainment expense at Netflix,2025,April,Saturday
+2025-03-24,Entertainment,Movie,4620.94,Credit Card,Mumbai,Entertainment expense at Movie,2025,March,Monday
+2025-01-03,Education,Coursera,994.59,Credit Card,Bangalore,Education expense at Coursera,2025,January,Friday
+2026-02-24,Travel,Bus,703.88,Credit Card,Aurangabad,Travel expense at Bus,2026,February,Tuesday
+2025-02-17,Bills,Internet,1701.48,UPI,Aurangabad,Bills expense at Internet,2025,February,Monday
+2026-01-19,Food,Swiggy,3857.61,Cash,Aurangabad,Food expense at Swiggy,2026,January,Monday
+2025-10-17,Food,Zomato,2843.08,Cash,Bangalore,Food expense at Zomato,2025,October,Friday
+2025-08-06,Education,Coursera,3274.67,Debit Card,Aurangabad,Education expense at Coursera,2025,August,Wednesday
+2025-07-12,Shopping,Flipkart,3648.79,UPI,Mumbai,Shopping expense at Flipkart,2025,July,Saturday
+2025-03-23,Education,Coursera,3089.31,Debit Card,Pune,Education expense at Coursera,2025,March,Sunday
+2025-11-25,Shopping,Mall,2462.51,Credit Card,Aurangabad,Shopping expense at Mall,2025,November,Tuesday
+2025-07-27,Health,Hospital,3084.97,UPI,Mumbai,Health expense at Hospital,2025,July,Sunday
+2025-07-26,Shopping,Amazon,2989.87,Credit Card,Delhi,Shopping expense at Amazon,2025,July,Saturday
+2026-03-09,Bills,Electricity,1622.11,Credit Card,Pune,Bills expense at Electricity,2026,March,Monday
+2025-10-14,Travel,Ola,4365.14,Cash,Aurangabad,Travel expense at Ola,2025,October,Tuesday
+2025-06-30,Entertainment,Gaming Zone,306.81,UPI,Bangalore,Entertainment expense at Gaming Zone,2025,June,Monday
+2026-04-15,Shopping,Mall,1157.66,Debit Card,Bangalore,Shopping expense at Mall,2026,April,Wednesday
+2025-08-01,Bills,Electricity,3185.64,Credit Card,Bangalore,Bills expense at Electricity,2025,August,Friday
+2025-09-30,Education,Coursera,4968.15,Debit Card,Bangalore,Education expense at Coursera,2025,September,Tuesday
+2025-04-18,Shopping,Amazon,4032.58,Cash,Delhi,Shopping expense at Amazon,2025,April,Friday
+2025-10-22,Travel,Bus,2568.06,UPI,Delhi,Travel expense at Bus,2025,October,Wednesday
+2025-01-11,Education,Udemy,176.51,Credit Card,Delhi,Education expense at Udemy,2025,January,Saturday
+2025-12-30,Travel,Uber,2683.23,Debit Card,Delhi,Travel expense at Uber,2025,December,Tuesday
+2026-01-13,Shopping,Mall,4287.19,Credit Card,Bangalore,Shopping expense at Mall,2026,January,Tuesday
+2025-10-14,Health,Gym,2744.82,UPI,Aurangabad,Health expense at Gym,2025,October,Tuesday
+2026-04-20,Health,Gym,999.79,Cash,Delhi,Health expense at Gym,2026,April,Monday
+2025-08-03,Education,Books Store,3598.09,Cash,Delhi,Education expense at Books Store,2025,August,Sunday
+2025-12-15,Shopping,Flipkart,3163.51,Cash,Bangalore,Shopping expense at Flipkart,2025,December,Monday
+2025-07-24,Entertainment,Gaming Zone,4784.02,UPI,Pune,Entertainment expense at Gaming Zone,2025,July,Thursday
+2025-12-29,Entertainment,Movie,548.16,Cash,Pune,Entertainment expense at Movie,2025,December,Monday
+2026-01-16,Bills,Water Bill,1081.76,UPI,Aurangabad,Bills expense at Water Bill,2026,January,Friday
+2026-01-08,Shopping,Flipkart,3273.78,Credit Card,Delhi,Shopping expense at Flipkart,2026,January,Thursday
+2025-02-11,Health,Pharmacy,1184.24,Debit Card,Mumbai,Health expense at Pharmacy,2025,February,Tuesday
+2025-06-07,Travel,Ola,2396.02,Credit Card,Pune,Travel expense at Ola,2025,June,Saturday
+2025-02-24,Bills,Internet,2543.86,Credit Card,Mumbai,Bills expense at Internet,2025,February,Monday
+2025-05-04,Food,Cafe Coffee Day,804.99,Cash,Mumbai,Food expense at Cafe Coffee Day,2025,May,Sunday
+2026-04-04,Health,Hospital,2880.31,UPI,Pune,Health expense at Hospital,2026,April,Saturday
+2025-11-07,Bills,Water Bill,1126.11,UPI,Pune,Bills expense at Water Bill,2025,November,Friday
+2025-08-15,Bills,Electricity,2321.45,Cash,Delhi,Bills expense at Electricity,2025,August,Friday
+2025-09-08,Education,Udemy,4166.43,Cash,Bangalore,Education expense at Udemy,2025,September,Monday
+2025-07-02,Travel,Train,707.68,Debit Card,Pune,Travel expense at Train,2025,July,Wednesday
+2025-03-20,Food,Cafe Coffee Day,3196.36,Debit Card,Delhi,Food expense at Cafe Coffee Day,2025,March,Thursday
+2025-03-21,Health,Gym,1082.62,UPI,Aurangabad,Health expense at Gym,2025,March,Friday
+2025-11-20,Bills,Water Bill,2166.1,Debit Card,Pune,Bills expense at Water Bill,2025,November,Thursday
+2025-03-27,Health,Pharmacy,4687.42,Debit Card,Mumbai,Health expense at Pharmacy,2025,March,Thursday
+2025-05-04,Shopping,Amazon,3512.53,Cash,Mumbai,Shopping expense at Amazon,2025,May,Sunday
+2025-08-10,Shopping,Mall,431.22,Cash,Bangalore,Shopping expense at Mall,2025,August,Sunday
+2025-03-23,Travel,Uber,720.73,Cash,Aurangabad,Travel expense at Uber,2025,March,Sunday
+2025-02-22,Education,Books Store,639.57,Debit Card,Mumbai,Education expense at Books Store,2025,February,Saturday
+2025-03-20,Bills,Internet,1830.18,Debit Card,Pune,Bills expense at Internet,2025,March,Thursday
+2025-06-16,Shopping,Mall,484.63,Debit Card,Delhi,Shopping expense at Mall,2025,June,Monday
+2025-05-07,Bills,Water Bill,3788.61,Debit Card,Delhi,Bills expense at Water Bill,2025,May,Wednesday
+2025-03-16,Entertainment,Gaming Zone,3913.04,UPI,Mumbai,Entertainment expense at Gaming Zone,2025,March,Sunday
+2025-09-16,Bills,Internet,562.25,Debit Card,Bangalore,Bills expense at Internet,2025,September,Tuesday
+2025-07-30,Entertainment,Netflix,135.0,Cash,Delhi,Entertainment expense at Netflix,2025,July,Wednesday
+2025-03-02,Bills,Internet,2065.73,Cash,Mumbai,Bills expense at Internet,2025,March,Sunday
+2025-11-27,Health,Gym,1035.91,Cash,Delhi,Health expense at Gym,2025,November,Thursday
+2026-04-23,Travel,Bus,4541.61,Credit Card,Pune,Travel expense at Bus,2026,April,Thursday
+2025-02-08,Entertainment,Movie,4364.24,Cash,Pune,Entertainment expense at Movie,2025,February,Saturday
+2026-04-05,Bills,Internet,61.36,UPI,Pune,Bills expense at Internet,2026,April,Sunday
+2026-04-24,Education,Udemy,3081.56,Debit Card,Bangalore,Education expense at Udemy,2026,April,Friday
+2025-03-01,Entertainment,Movie,4680.35,UPI,Mumbai,Entertainment expense at Movie,2025,March,Saturday
+2026-03-03,Health,Hospital,2717.9,UPI,Aurangabad,Health expense at Hospital,2026,March,Tuesday
+2026-03-09,Health,Gym,4296.27,Cash,Delhi,Health expense at Gym,2026,March,Monday
+2025-11-28,Shopping,Mall,2941.65,Credit Card,Bangalore,Shopping expense at Mall,2025,November,Friday
+2025-02-25,Entertainment,Netflix,4401.56,Cash,Aurangabad,Entertainment expense at Netflix,2025,February,Tuesday
+2025-03-12,Education,Udemy,158.16,UPI,Aurangabad,Education expense at Udemy,2025,March,Wednesday
+2025-05-07,Travel,Bus,2812.33,Credit Card,Pune,Travel expense at Bus,2025,May,Wednesday
+2025-06-03,Shopping,Amazon,1784.52,UPI,Delhi,Shopping expense at Amazon,2025,June,Tuesday
+2025-04-25,Health,Gym,1832.25,Debit Card,Aurangabad,Health expense at Gym,2025,April,Friday
+2025-02-19,Food,Swiggy,3697.83,Debit Card,Pune,Food expense at Swiggy,2025,February,Wednesday
+2025-01-31,Health,Gym,3500.06,UPI,Delhi,Health expense at Gym,2025,January,Friday
+2025-04-22,Food,Swiggy,1026.81,Debit Card,Aurangabad,Food expense at Swiggy,2025,April,Tuesday
+2025-03-14,Entertainment,Netflix,1084.04,Debit Card,Pune,Entertainment expense at Netflix,2025,March,Friday
+2025-11-20,Travel,Uber,3747.96,Cash,Bangalore,Travel expense at Uber,2025,November,Thursday
+2026-01-15,Food,Dominos,4673.58,UPI,Pune,Food expense at Dominos,2026,January,Thursday
+2026-04-03,Education,Udemy,4377.95,Credit Card,Mumbai,Education expense at Udemy,2026,April,Friday
+2026-04-26,Entertainment,Gaming Zone,4072.04,UPI,Mumbai,Entertainment expense at Gaming Zone,2026,April,Sunday
+2025-08-01,Bills,Water Bill,4493.66,Debit Card,Pune,Bills expense at Water Bill,2025,August,Friday
+2025-09-21,Entertainment,Movie,538.58,Credit Card,Mumbai,Entertainment expense at Movie,2025,September,Sunday
+2026-03-12,Health,Gym,829.13,Credit Card,Delhi,Health expense at Gym,2026,March,Thursday
+2025-04-20,Shopping,Mall,2341.46,UPI,Delhi,Shopping expense at Mall,2025,April,Sunday
+2026-01-03,Shopping,Flipkart,3659.58,Cash,Bangalore,Shopping expense at Flipkart,2026,January,Saturday
+2025-12-09,Entertainment,Gaming Zone,4678.25,Credit Card,Delhi,Entertainment expense at Gaming Zone,2025,December,Tuesday
+2025-01-25,Bills,Water Bill,3320.32,Credit Card,Delhi,Bills expense at Water Bill,2025,January,Saturday
+2026-02-11,Education,Books Store,4356.99,Credit Card,Bangalore,Education expense at Books Store,2026,February,Wednesday
+2025-02-10,Bills,Water Bill,4860.36,Debit Card,Delhi,Bills expense at Water Bill,2025,February,Monday
+2026-01-14,Food,Dominos,3954.73,Credit Card,Aurangabad,Food expense at Dominos,2026,January,Wednesday
+2026-04-03,Shopping,Amazon,4662.5,Credit Card,Pune,Shopping expense at Amazon,2026,April,Friday
+2026-03-21,Food,Dominos,4843.57,Cash,Mumbai,Food expense at Dominos,2026,March,Saturday
+2025-04-24,Bills,Electricity,281.07,UPI,Bangalore,Bills expense at Electricity,2025,April,Thursday
+2025-11-21,Shopping,Mall,2742.91,UPI,Mumbai,Shopping expense at Mall,2025,November,Friday
+2025-05-11,Health,Pharmacy,912.25,UPI,Mumbai,Health expense at Pharmacy,2025,May,Sunday
+2026-02-27,Education,Udemy,1787.72,Credit Card,Delhi,Education expense at Udemy,2026,February,Friday
+2025-02-10,Bills,Electricity,4275.05,Debit Card,Aurangabad,Bills expense at Electricity,2025,February,Monday
+2025-03-05,Bills,Water Bill,1721.46,Debit Card,Bangalore,Bills expense at Water Bill,2025,March,Wednesday
+2025-04-05,Health,Pharmacy,3603.09,Cash,Bangalore,Health expense at Pharmacy,2025,April,Saturday
+2025-11-13,Food,Cafe Coffee Day,1287.7,UPI,Mumbai,Food expense at Cafe Coffee Day,2025,November,Thursday
+2025-07-01,Health,Pharmacy,4975.25,Debit Card,Pune,Health expense at Pharmacy,2025,July,Tuesday
+2025-04-27,Food,Cafe Coffee Day,224.68,Cash,Pune,Food expense at Cafe Coffee Day,2025,April,Sunday
+2025-03-09,Education,Coursera,2963.28,UPI,Mumbai,Education expense at Coursera,2025,March,Sunday
+2025-02-03,Travel,Bus,164.7,Credit Card,Delhi,Travel expense at Bus,2025,February,Monday
+2025-11-09,Shopping,Mall,949.82,Debit Card,Pune,Shopping expense at Mall,2025,November,Sunday
+2025-10-02,Education,Books Store,1986.96,UPI,Bangalore,Education expense at Books Store,2025,October,Thursday
+2025-03-02,Health,Gym,271.86,UPI,Aurangabad,Health expense at Gym,2025,March,Sunday
+2025-11-07,Food,Zomato,4725.57,Cash,Delhi,Food expense at Zomato,2025,November,Friday
+2025-06-16,Travel,Ola,4196.88,UPI,Aurangabad,Travel expense at Ola,2025,June,Monday
+2025-09-28,Travel,Uber,2845.81,Debit Card,Bangalore,Travel expense at Uber,2025,September,Sunday
+2025-09-24,Education,Books Store,2627.66,Cash,Pune,Education expense at Books Store,2025,September,Wednesday
+2026-02-24,Entertainment,Gaming Zone,4888.62,Cash,Bangalore,Entertainment expense at Gaming Zone,2026,February,Tuesday
+2025-10-01,Education,Coursera,1000.43,Credit Card,Delhi,Education expense at Coursera,2025,October,Wednesday
+2025-10-20,Food,Dominos,505.29,Debit Card,Bangalore,Food expense at Dominos,2025,October,Monday
+2026-03-21,Health,Pharmacy,441.88,Credit Card,Mumbai,Health expense at Pharmacy,2026,March,Saturday
+2025-12-06,Education,Udemy,1274.19,Credit Card,Bangalore,Education expense at Udemy,2025,December,Saturday
+2025-01-16,Travel,Uber,2609.78,UPI,Pune,Travel expense at Uber,2025,January,Thursday
+2025-09-22,Bills,Water Bill,804.86,Cash,Pune,Bills expense at Water Bill,2025,September,Monday
+2025-08-28,Health,Hospital,3645.61,Cash,Pune,Health expense at Hospital,2025,August,Thursday
+2025-12-20,Bills,Electricity,1637.11,UPI,Aurangabad,Bills expense at Electricity,2025,December,Saturday
+2026-01-08,Entertainment,Movie,2047.8,Credit Card,Aurangabad,Entertainment expense at Movie,2026,January,Thursday
+2026-01-18,Entertainment,Movie,2400.58,Debit Card,Delhi,Entertainment expense at Movie,2026,January,Sunday
+2025-09-26,Food,Dominos,285.6,UPI,Pune,Food expense at Dominos,2025,September,Friday
+2025-10-30,Bills,Electricity,3354.67,Credit Card,Mumbai,Bills expense at Electricity,2025,October,Thursday
+2026-02-06,Health,Pharmacy,777.54,Credit Card,Delhi,Health expense at Pharmacy,2026,February,Friday
+2025-12-23,Food,Cafe Coffee Day,406.12,Debit Card,Pune,Food expense at Cafe Coffee Day,2025,December,Tuesday
+2025-04-08,Entertainment,Gaming Zone,3016.62,UPI,Mumbai,Entertainment expense at Gaming Zone,2025,April,Tuesday
+2025-06-05,Food,Swiggy,1108.78,Cash,Aurangabad,Food expense at Swiggy,2025,June,Thursday
+2025-04-13,Travel,Bus,3995.86,Credit Card,Bangalore,Travel expense at Bus,2025,April,Sunday
+2026-01-08,Education,Udemy,1493.92,Cash,Pune,Education expense at Udemy,2026,January,Thursday
+2025-08-20,Food,Swiggy,3886.95,Debit Card,Mumbai,Food expense at Swiggy,2025,August,Wednesday
+2025-06-06,Shopping,Mall,1078.64,Debit Card,Mumbai,Shopping expense at Mall,2025,June,Friday
+2026-02-22,Food,Swiggy,1702.3,UPI,Bangalore,Food expense at Swiggy,2026,February,Sunday
+2025-08-06,Entertainment,Netflix,3842.09,UPI,Mumbai,Entertainment expense at Netflix,2025,August,Wednesday
+2025-06-29,Bills,Internet,3033.39,Credit Card,Aurangabad,Bills expense at Internet,2025,June,Sunday
+2026-01-31,Education,Coursera,4932.15,Cash,Delhi,Education expense at Coursera,2026,January,Saturday
+2026-03-20,Food,Dominos,3783.63,UPI,Mumbai,Food expense at Dominos,2026,March,Friday
+2025-02-07,Travel,Train,2460.0,UPI,Aurangabad,Travel expense at Train,2025,February,Friday
+2025-06-05,Entertainment,Gaming Zone,3078.52,UPI,Bangalore,Entertainment expense at Gaming Zone,2025,June,Thursday
+2025-04-10,Shopping,Flipkart,3934.24,Debit Card,Mumbai,Shopping expense at Flipkart,2025,April,Thursday
+2025-11-22,Shopping,Amazon,466.89,Debit Card,Mumbai,Shopping expense at Amazon,2025,November,Saturday
+2025-01-11,Entertainment,Movie,3778.72,UPI,Mumbai,Entertainment expense at Movie,2025,January,Saturday
+2025-08-10,Entertainment,Gaming Zone,3299.55,Debit Card,Delhi,Entertainment expense at Gaming Zone,2025,August,Sunday
+2026-01-22,Bills,Internet,2351.86,UPI,Pune,Bills expense at Internet,2026,January,Thursday
+2026-03-05,Bills,Water Bill,1621.8,Credit Card,Bangalore,Bills expense at Water Bill,2026,March,Thursday
+2025-03-12,Education,Books Store,4126.19,Cash,Aurangabad,Education expense at Books Store,2025,March,Wednesday
+2025-09-04,Education,Udemy,4988.3,Cash,Aurangabad,Education expense at Udemy,2025,September,Thursday
+2025-12-11,Education,Coursera,3813.89,Credit Card,Delhi,Education expense at Coursera,2025,December,Thursday
+2025-09-19,Food,Zomato,592.57,UPI,Delhi,Food expense at Zomato,2025,September,Friday
+2025-02-22,Food,Dominos,2595.71,Debit Card,Mumbai,Food expense at Dominos,2025,February,Saturday
+2026-01-16,Entertainment,Gaming Zone,2258.8,Debit Card,Bangalore,Entertainment expense at Gaming Zone,2026,January,Friday
+2026-03-22,Entertainment,Movie,3827.62,Cash,Aurangabad,Entertainment expense at Movie,2026,March,Sunday
+2025-11-22,Shopping,Flipkart,1139.49,UPI,Aurangabad,Shopping expense at Flipkart,2025,November,Saturday
+2026-04-27,Health,Pharmacy,4048.8,Credit Card,Mumbai,Health expense at Pharmacy,2026,April,Monday
+2025-07-30,Health,Hospital,3364.5,Cash,Pune,Health expense at Hospital,2025,July,Wednesday
+2025-09-08,Bills,Water Bill,3843.02,Credit Card,Delhi,Bills expense at Water Bill,2025,September,Monday
+2025-04-28,Entertainment,Movie,2547.16,UPI,Pune,Entertainment expense at Movie,2025,April,Monday
+2025-11-28,Travel,Ola,807.02,Cash,Delhi,Travel expense at Ola,2025,November,Friday
+2025-03-25,Entertainment,Netflix,266.89,Credit Card,Bangalore,Entertainment expense at Netflix,2025,March,Tuesday
+2025-08-25,Food,Dominos,2814.89,Cash,Aurangabad,Food expense at Dominos,2025,August,Monday
+2025-04-13,Bills,Water Bill,4812.09,Debit Card,Mumbai,Bills expense at Water Bill,2025,April,Sunday
+2025-05-07,Health,Hospital,4424.41,Credit Card,Bangalore,Health expense at Hospital,2025,May,Wednesday
+2025-08-20,Entertainment,Gaming Zone,2353.3,Debit Card,Bangalore,Entertainment expense at Gaming Zone,2025,August,Wednesday
+2026-04-02,Travel,Train,2601.05,Cash,Aurangabad,Travel expense at Train,2026,April,Thursday
+2025-04-24,Food,Swiggy,4768.21,Cash,Delhi,Food expense at Swiggy,2025,April,Thursday
+2025-03-15,Bills,Water Bill,2615.21,Credit Card,Mumbai,Bills expense at Water Bill,2025,March,Saturday
+2025-11-04,Health,Gym,4765.05,Credit Card,Mumbai,Health expense at Gym,2025,November,Tuesday
+2025-09-24,Education,Udemy,233.54,Credit Card,Delhi,Education expense at Udemy,2025,September,Wednesday
+2025-04-09,Entertainment,Netflix,3544.17,Credit Card,Mumbai,Entertainment expense at Netflix,2025,April,Wednesday
+2025-08-10,Entertainment,Netflix,1382.18,Cash,Delhi,Entertainment expense at Netflix,2025,August,Sunday
+2025-08-05,Travel,Train,4679.22,Credit Card,Aurangabad,Travel expense at Train,2025,August,Tuesday
+2026-02-18,Bills,Internet,3450.46,Credit Card,Pune,Bills expense at Internet,2026,February,Wednesday
+2025-07-14,Bills,Water Bill,2113.98,Credit Card,Bangalore,Bills expense at Water Bill,2025,July,Monday
+2025-04-18,Food,Swiggy,4894.65,Cash,Pune,Food expense at Swiggy,2025,April,Friday
+2025-12-04,Entertainment,Netflix,760.43,Cash,Delhi,Entertainment expense at Netflix,2025,December,Thursday
+2026-04-08,Food,Swiggy,2283.12,Debit Card,Bangalore,Food expense at Swiggy,2026,April,Wednesday
+2026-02-04,Shopping,Flipkart,4578.75,Credit Card,Pune,Shopping expense at Flipkart,2026,February,Wednesday
+2026-02-02,Shopping,Amazon,3211.08,UPI,Aurangabad,Shopping expense at Amazon,2026,February,Monday
+2025-11-27,Health,Gym,196.22,Debit Card,Mumbai,Health expense at Gym,2025,November,Thursday
+2025-02-04,Shopping,Mall,2432.5,Credit Card,Bangalore,Shopping expense at Mall,2025,February,Tuesday
+2025-06-18,Entertainment,Netflix,478.73,UPI,Pune,Entertainment expense at Netflix,2025,June,Wednesday
+2025-06-04,Travel,Train,4502.12,Debit Card,Mumbai,Travel expense at Train,2025,June,Wednesday
+2026-05-01,Food,Swiggy,3552.77,Cash,Aurangabad,Food expense at Swiggy,2026,May,Friday
+2025-02-14,Entertainment,Netflix,2157.95,UPI,Aurangabad,Entertainment expense at Netflix,2025,February,Friday
+2025-07-01,Travel,Uber,3647.05,Debit Card,Mumbai,Travel expense at Uber,2025,July,Tuesday
+2025-10-10,Education,Udemy,3661.06,Cash,Aurangabad,Education expense at Udemy,2025,October,Friday
+2026-03-15,Bills,Electricity,2211.73,UPI,Aurangabad,Bills expense at Electricity,2026,March,Sunday
+2025-08-02,Entertainment,Gaming Zone,219.53,Credit Card,Aurangabad,Entertainment expense at Gaming Zone,2025,August,Saturday
+2026-04-28,Travel,Bus,1713.44,Cash,Pune,Travel expense at Bus,2026,April,Tuesday
+2025-02-06,Bills,Internet,4927.81,UPI,Bangalore,Bills expense at Internet,2025,February,Thursday
+2025-03-04,Shopping,Amazon,3968.03,Cash,Delhi,Shopping expense at Amazon,2025,March,Tuesday
+2025-10-10,Food,Zomato,3283.04,Debit Card,Aurangabad,Food expense at Zomato,2025,October,Friday
+2025-04-18,Education,Coursera,4567.1,UPI,Delhi,Education expense at Coursera,2025,April,Friday
+2025-07-15,Bills,Internet,4928.55,Cash,Pune,Bills expense at Internet,2025,July,Tuesday
+2025-06-01,Travel,Bus,2310.19,UPI,Mumbai,Travel expense at Bus,2025,June,Sunday
+2025-07-24,Shopping,Mall,4514.79,UPI,Delhi,Shopping expense at Mall,2025,July,Thursday
+2025-11-17,Shopping,Mall,4050.79,Debit Card,Aurangabad,Shopping expense at Mall,2025,November,Monday
+2025-11-06,Food,Zomato,1084.11,UPI,Bangalore,Food expense at Zomato,2025,November,Thursday
+2025-05-03,Entertainment,Movie,861.57,Cash,Pune,Entertainment expense at Movie,2025,May,Saturday
+2025-01-18,Education,Books Store,387.72,UPI,Delhi,Education expense at Books Store,2025,January,Saturday
+2025-05-24,Bills,Water Bill,1495.11,UPI,Aurangabad,Bills expense at Water Bill,2025,May,Saturday
+2025-02-02,Bills,Internet,4640.07,Debit Card,Mumbai,Bills expense at Internet,2025,February,Sunday
+2026-02-10,Health,Pharmacy,2367.92,Credit Card,Aurangabad,Health expense at Pharmacy,2026,February,Tuesday
+2025-03-25,Education,Books Store,465.41,Credit Card,Pune,Education expense at Books Store,2025,March,Tuesday
+2025-02-11,Food,Swiggy,4364.6,Credit Card,Delhi,Food expense at Swiggy,2025,February,Tuesday
+2025-02-23,Education,Udemy,4096.13,Cash,Pune,Education expense at Udemy,2025,February,Sunday
+2026-01-05,Shopping,Flipkart,4695.53,UPI,Aurangabad,Shopping expense at Flipkart,2026,January,Monday
+2026-01-05,Health,Pharmacy,4313.53,Cash,Delhi,Health expense at Pharmacy,2026,January,Monday
+2025-05-04,Food,Cafe Coffee Day,2954.26,Cash,Aurangabad,Food expense at Cafe Coffee Day,2025,May,Sunday
+2025-12-04,Shopping,Amazon,4283.33,UPI,Mumbai,Shopping expense at Amazon,2025,December,Thursday
+2025-04-11,Food,Cafe Coffee Day,675.08,Credit Card,Pune,Food expense at Cafe Coffee Day,2025,April,Friday
+2025-01-16,Travel,Uber,3205.87,UPI,Pune,Travel expense at Uber,2025,January,Thursday
+2026-01-20,Travel,Uber,2868.35,Debit Card,Delhi,Travel expense at Uber,2026,January,Tuesday
+2025-03-10,Bills,Electricity,3016.31,Debit Card,Pune,Bills expense at Electricity,2025,March,Monday
+2026-01-24,Shopping,Amazon,3385.05,Debit Card,Delhi,Shopping expense at Amazon,2026,January,Saturday
+2025-02-17,Health,Hospital,384.05,Debit Card,Delhi,Health expense at Hospital,2025,February,Monday
+2026-01-08,Health,Gym,3242.45,Debit Card,Bangalore,Health expense at Gym,2026,January,Thursday
+2025-05-27,Food,Cafe Coffee Day,3686.05,Cash,Delhi,Food expense at Cafe Coffee Day,2025,May,Tuesday
+2025-11-09,Education,Udemy,4912.96,UPI,Bangalore,Education expense at Udemy,2025,November,Sunday
+2025-07-02,Travel,Bus,1173.19,UPI,Aurangabad,Travel expense at Bus,2025,July,Wednesday
+2025-09-08,Health,Pharmacy,2226.78,Credit Card,Delhi,Health expense at Pharmacy,2025,September,Monday
+2025-03-09,Health,Gym,1492.77,Cash,Mumbai,Health expense at Gym,2025,March,Sunday
+2026-01-18,Travel,Train,460.61,UPI,Bangalore,Travel expense at Train,2026,January,Sunday
+2026-04-08,Bills,Water Bill,792.4,Debit Card,Pune,Bills expense at Water Bill,2026,April,Wednesday
+2025-09-24,Travel,Ola,90.97,Cash,Aurangabad,Travel expense at Ola,2025,September,Wednesday
+2025-11-08,Shopping,Mall,1236.91,Credit Card,Mumbai,Shopping expense at Mall,2025,November,Saturday
+2025-07-03,Travel,Train,159.4,Credit Card,Delhi,Travel expense at Train,2025,July,Thursday
+2026-02-14,Health,Gym,1728.16,UPI,Bangalore,Health expense at Gym,2026,February,Saturday
+2025-09-15,Health,Gym,1431.55,Cash,Mumbai,Health expense at Gym,2025,September,Monday
+2026-01-23,Bills,Electricity,2095.56,Cash,Bangalore,Bills expense at Electricity,2026,January,Friday
+2026-01-13,Shopping,Amazon,3389.25,Credit Card,Bangalore,Shopping expense at Amazon,2026,January,Tuesday
+2025-10-01,Entertainment,Netflix,2728.93,Debit Card,Mumbai,Entertainment expense at Netflix,2025,October,Wednesday
+2025-08-14,Health,Gym,4586.13,Cash,Delhi,Health expense at Gym,2025,August,Thursday
+2026-03-25,Shopping,Mall,1867.56,UPI,Delhi,Shopping expense at Mall,2026,March,Wednesday
+2025-03-17,Shopping,Mall,3930.87,Debit Card,Aurangabad,Shopping expense at Mall,2025,March,Monday
+2026-03-22,Education,Coursera,2868.3,UPI,Aurangabad,Education expense at Coursera,2026,March,Sunday
+2025-03-06,Food,Cafe Coffee Day,4639.53,Cash,Pune,Food expense at Cafe Coffee Day,2025,March,Thursday
+2025-06-20,Travel,Uber,2557.8,Debit Card,Bangalore,Travel expense at Uber,2025,June,Friday
+2025-04-10,Bills,Water Bill,4594.39,Cash,Pune,Bills expense at Water Bill,2025,April,Thursday
+2025-03-02,Education,Udemy,3133.1,Credit Card,Pune,Education expense at Udemy,2025,March,Sunday
+2025-04-24,Bills,Water Bill,1737.55,UPI,Delhi,Bills expense at Water Bill,2025,April,Thursday
+2025-09-12,Education,Books Store,2869.7,Cash,Pune,Education expense at Books Store,2025,September,Friday
+2025-03-08,Shopping,Amazon,242.09,Cash,Aurangabad,Shopping expense at Amazon,2025,March,Saturday
+2025-06-30,Health,Pharmacy,52.32,Cash,Delhi,Health expense at Pharmacy,2025,June,Monday
+2025-05-06,Entertainment,Netflix,4518.58,UPI,Delhi,Entertainment expense at Netflix,2025,May,Tuesday
+2025-01-08,Food,Zomato,2178.3,Debit Card,Aurangabad,Food expense at Zomato,2025,January,Wednesday
+2025-06-28,Food,Swiggy,1161.21,UPI,Bangalore,Food expense at Swiggy,2025,June,Saturday
+2025-01-27,Shopping,Amazon,702.14,Cash,Mumbai,Shopping expense at Amazon,2025,January,Monday
+2025-05-18,Bills,Electricity,3097.7,UPI,Aurangabad,Bills expense at Electricity,2025,May,Sunday
+2025-03-25,Entertainment,Netflix,1342.31,Cash,Delhi,Entertainment expense at Netflix,2025,March,Tuesday
+2026-04-28,Travel,Uber,4796.48,UPI,Pune,Travel expense at Uber,2026,April,Tuesday
+2026-01-19,Entertainment,Netflix,3847.53,Debit Card,Pune,Entertainment expense at Netflix,2026,January,Monday
+2025-10-01,Bills,Water Bill,1587.81,UPI,Mumbai,Bills expense at Water Bill,2025,October,Wednesday
+2025-02-27,Health,Pharmacy,4571.37,Credit Card,Delhi,Health expense at Pharmacy,2025,February,Thursday
+2025-11-04,Entertainment,Gaming Zone,915.19,Cash,Delhi,Entertainment expense at Gaming Zone,2025,November,Tuesday
+2025-06-05,Education,Udemy,2457.53,Cash,Mumbai,Education expense at Udemy,2025,June,Thursday
+2025-07-28,Health,Hospital,3749.73,Credit Card,Aurangabad,Health expense at Hospital,2025,July,Monday
+2025-01-17,Travel,Bus,3433.66,Cash,Delhi,Travel expense at Bus,2025,January,Friday
+2025-11-05,Health,Pharmacy,262.82,Cash,Mumbai,Health expense at Pharmacy,2025,November,Wednesday
+2025-12-17,Bills,Water Bill,1983.16,Credit Card,Delhi,Bills expense at Water Bill,2025,December,Wednesday
+2025-11-15,Food,Cafe Coffee Day,1782.34,UPI,Pune,Food expense at Cafe Coffee Day,2025,November,Saturday
+2025-09-10,Shopping,Mall,1432.81,Debit Card,Aurangabad,Shopping expense at Mall,2025,September,Wednesday
+2026-01-18,Education,Books Store,563.2,Debit Card,Bangalore,Education expense at Books Store,2026,January,Sunday
+2025-06-30,Entertainment,Movie,1387.18,Cash,Mumbai,Entertainment expense at Movie,2025,June,Monday
+2025-12-14,Education,Books Store,3003.54,UPI,Pune,Education expense at Books Store,2025,December,Sunday
+2026-03-13,Shopping,Amazon,1905.25,Cash,Pune,Shopping expense at Amazon,2026,March,Friday
+2026-04-04,Food,Dominos,2550.14,Credit Card,Pune,Food expense at Dominos,2026,April,Saturday
+2026-02-10,Bills,Internet,4779.23,Credit Card,Pune,Bills expense at Internet,2026,February,Tuesday
+2025-02-11,Health,Gym,2698.59,Credit Card,Aurangabad,Health expense at Gym,2025,February,Tuesday
+2025-02-22,Bills,Water Bill,1012.29,Debit Card,Mumbai,Bills expense at Water Bill,2025,February,Saturday
+2025-11-07,Bills,Internet,4574.24,Cash,Bangalore,Bills expense at Internet,2025,November,Friday
+2025-08-29,Travel,Ola,2005.88,Cash,Mumbai,Travel expense at Ola,2025,August,Friday
+2025-07-31,Health,Gym,3958.64,Credit Card,Bangalore,Health expense at Gym,2025,July,Thursday
+2025-03-18,Bills,Water Bill,2527.9,Debit Card,Aurangabad,Bills expense at Water Bill,2025,March,Tuesday
+2025-02-24,Education,Books Store,963.13,Debit Card,Mumbai,Education expense at Books Store,2025,February,Monday
+2025-03-07,Entertainment,Movie,4691.68,Credit Card,Delhi,Entertainment expense at Movie,2025,March,Friday
+2025-06-19,Entertainment,Movie,4699.91,UPI,Pune,Entertainment expense at Movie,2025,June,Thursday
+2025-07-21,Education,Books Store,830.66,Credit Card,Mumbai,Education expense at Books Store,2025,July,Monday
+2025-08-16,Entertainment,Gaming Zone,596.73,Credit Card,Aurangabad,Entertainment expense at Gaming Zone,2025,August,Saturday
+2025-03-13,Food,Zomato,2816.63,Cash,Mumbai,Food expense at Zomato,2025,March,Thursday
+2025-07-15,Entertainment,Gaming Zone,295.73,Credit Card,Pune,Entertainment expense at Gaming Zone,2025,July,Tuesday
+2026-01-22,Health,Pharmacy,262.58,Cash,Bangalore,Health expense at Pharmacy,2026,January,Thursday
+2025-06-17,Shopping,Amazon,1747.74,Cash,Bangalore,Shopping expense at Amazon,2025,June,Tuesday
+2025-03-17,Food,Zomato,1259.36,Credit Card,Bangalore,Food expense at Zomato,2025,March,Monday
+2025-03-02,Food,Dominos,1900.83,UPI,Bangalore,Food expense at Dominos,2025,March,Sunday
+2025-06-30,Travel,Bus,943.34,Debit Card,Mumbai,Travel expense at Bus,2025,June,Monday
+2026-02-14,Education,Books Store,1210.66,UPI,Delhi,Education expense at Books Store,2026,February,Saturday
+2025-12-21,Food,Dominos,2082.4,Credit Card,Pune,Food expense at Dominos,2025,December,Sunday
+2025-11-01,Food,Dominos,467.84,Credit Card,Delhi,Food expense at Dominos,2025,November,Saturday
+2025-02-10,Entertainment,Netflix,3981.7,UPI,Aurangabad,Entertainment expense at Netflix,2025,February,Monday
+2025-08-08,Entertainment,Gaming Zone,1309.08,Credit Card,Delhi,Entertainment expense at Gaming Zone,2025,August,Friday
+2025-08-15,Shopping,Mall,261.58,Cash,Delhi,Shopping expense at Mall,2025,August,Friday
+2025-09-15,Shopping,Amazon,2146.31,Cash,Bangalore,Shopping expense at Amazon,2025,September,Monday
+2026-03-06,Food,Zomato,2706.65,Credit Card,Delhi,Food expense at Zomato,2026,March,Friday
+2025-06-10,Shopping,Flipkart,1680.74,Cash,Bangalore,Shopping expense at Flipkart,2025,June,Tuesday
+2025-11-11,Shopping,Amazon,1553.12,Cash,Delhi,Shopping expense at Amazon,2025,November,Tuesday
+2025-01-03,Health,Gym,1051.73,UPI,Mumbai,Health expense at Gym,2025,January,Friday
+2025-08-21,Food,Cafe Coffee Day,1750.47,UPI,Mumbai,Food expense at Cafe Coffee Day,2025,August,Thursday
+2025-01-31,Bills,Internet,308.59,Cash,Mumbai,Bills expense at Internet,2025,January,Friday
+2025-02-20,Food,Dominos,2542.75,Credit Card,Pune,Food expense at Dominos,2025,February,Thursday
+2025-02-27,Health,Gym,4185.66,Credit Card,Aurangabad,Health expense at Gym,2025,February,Thursday
+2025-03-11,Shopping,Flipkart,3883.14,Debit Card,Bangalore,Shopping expense at Flipkart,2025,March,Tuesday
+2025-11-21,Travel,Bus,2778.83,UPI,Pune,Travel expense at Bus,2025,November,Friday
+2025-12-31,Entertainment,Netflix,2293.56,UPI,Pune,Entertainment expense at Netflix,2025,December,Wednesday
+2026-02-25,Education,Udemy,2931.71,Credit Card,Aurangabad,Education expense at Udemy,2026,February,Wednesday
+2026-01-05,Bills,Water Bill,2253.28,Cash,Pune,Bills expense at Water Bill,2026,January,Monday
+2026-01-29,Entertainment,Movie,1090.25,Debit Card,Bangalore,Entertainment expense at Movie,2026,January,Thursday
+2025-04-13,Travel,Ola,3969.75,Credit Card,Bangalore,Travel expense at Ola,2025,April,Sunday
+2025-01-17,Food,Zomato,4064.75,Credit Card,Bangalore,Food expense at Zomato,2025,January,Friday
+2026-02-05,Travel,Train,1772.83,UPI,Mumbai,Travel expense at Train,2026,February,Thursday
+2025-11-10,Education,Coursera,4780.02,UPI,Mumbai,Education expense at Coursera,2025,November,Monday
+2025-04-23,Bills,Electricity,3217.23,UPI,Delhi,Bills expense at Electricity,2025,April,Wednesday
+2025-03-16,Education,Books Store,1111.13,Cash,Bangalore,Education expense at Books Store,2025,March,Sunday
+2025-12-17,Education,Books Store,3391.55,Cash,Mumbai,Education expense at Books Store,2025,December,Wednesday
+2025-08-15,Shopping,Mall,2222.28,Debit Card,Pune,Shopping expense at Mall,2025,August,Friday
+2026-01-10,Education,Udemy,1472.91,UPI,Bangalore,Education expense at Udemy,2026,January,Saturday
+2025-06-13,Entertainment,Movie,426.09,Debit Card,Pune,Entertainment expense at Movie,2025,June,Friday
+2026-04-04,Travel,Uber,672.11,Cash,Delhi,Travel expense at Uber,2026,April,Saturday
+2025-07-09,Health,Hospital,1091.38,Debit Card,Aurangabad,Health expense at Hospital,2025,July,Wednesday
+2025-09-09,Entertainment,Netflix,281.99,UPI,Aurangabad,Entertainment expense at Netflix,2025,September,Tuesday
+2025-05-25,Bills,Electricity,3916.63,UPI,Aurangabad,Bills expense at Electricity,2025,May,Sunday
+2025-08-10,Food,Cafe Coffee Day,2724.7,UPI,Delhi,Food expense at Cafe Coffee Day,2025,August,Sunday
+2025-09-12,Education,Udemy,3229.98,UPI,Delhi,Education expense at Udemy,2025,September,Friday
+2025-02-28,Travel,Train,821.1,Credit Card,Aurangabad,Travel expense at Train,2025,February,Friday
+2025-11-28,Education,Udemy,3736.06,Debit Card,Aurangabad,Education expense at Udemy,2025,November,Friday
+2025-08-09,Shopping,Amazon,134.02,UPI,Mumbai,Shopping expense at Amazon,2025,August,Saturday
+2026-04-09,Travel,Bus,4828.99,Debit Card,Aurangabad,Travel expense at Bus,2026,April,Thursday
+2025-12-28,Education,Udemy,4596.02,Debit Card,Mumbai,Education expense at Udemy,2025,December,Sunday
+2025-02-14,Entertainment,Netflix,1654.6,Debit Card,Mumbai,Entertainment expense at Netflix,2025,February,Friday
+2025-12-23,Health,Gym,4429.32,Credit Card,Aurangabad,Health expense at Gym,2025,December,Tuesday
+2025-03-08,Entertainment,Movie,1049.39,UPI,Aurangabad,Entertainment expense at Movie,2025,March,Saturday
+2025-05-25,Education,Books Store,1029.02,Debit Card,Mumbai,Education expense at Books Store,2025,May,Sunday
+2026-04-09,Health,Hospital,4554.43,Credit Card,Pune,Health expense at Hospital,2026,April,Thursday
+2025-10-06,Health,Gym,4815.95,Debit Card,Aurangabad,Health expense at Gym,2025,October,Monday
+2025-01-26,Shopping,Mall,1663.53,UPI,Pune,Shopping expense at Mall,2025,January,Sunday
+2026-03-28,Education,Udemy,1620.08,Credit Card,Bangalore,Education expense at Udemy,2026,March,Saturday
+2026-04-02,Food,Zomato,3657.53,Credit Card,Bangalore,Food expense at Zomato,2026,April,Thursday
+2025-12-11,Travel,Bus,4823.36,Cash,Bangalore,Travel expense at Bus,2025,December,Thursday
+2026-01-06,Shopping,Mall,1314.89,Cash,Mumbai,Shopping expense at Mall,2026,January,Tuesday
+2025-05-02,Bills,Electricity,954.83,Credit Card,Pune,Bills expense at Electricity,2025,May,Friday
+2026-04-08,Education,Udemy,1112.1,Cash,Mumbai,Education expense at Udemy,2026,April,Wednesday
+2025-03-28,Food,Cafe Coffee Day,3518.68,Credit Card,Bangalore,Food expense at Cafe Coffee Day,2025,March,Friday
+2025-10-01,Bills,Internet,3736.91,Credit Card,Delhi,Bills expense at Internet,2025,October,Wednesday
+2025-03-20,Food,Cafe Coffee Day,3381.85,Credit Card,Aurangabad,Food expense at Cafe Coffee Day,2025,March,Thursday
+2026-04-05,Travel,Train,2860.91,Credit Card,Mumbai,Travel expense at Train,2026,April,Sunday
+2025-06-19,Health,Gym,4902.26,Cash,Aurangabad,Health expense at Gym,2025,June,Thursday
+2025-05-20,Shopping,Amazon,813.62,Credit Card,Delhi,Shopping expense at Amazon,2025,May,Tuesday
+2025-06-04,Food,Swiggy,569.33,Cash,Bangalore,Food expense at Swiggy,2025,June,Wednesday
+2025-01-21,Entertainment,Gaming Zone,4195.98,Debit Card,Delhi,Entertainment expense at Gaming Zone,2025,January,Tuesday
+2025-01-11,Food,Swiggy,2359.16,Cash,Aurangabad,Food expense at Swiggy,2025,January,Saturday
+2025-11-30,Travel,Train,3942.85,Debit Card,Aurangabad,Travel expense at Train,2025,November,Sunday
+2025-07-15,Food,Swiggy,3645.12,Credit Card,Pune,Food expense at Swiggy,2025,July,Tuesday
+2025-09-23,Travel,Uber,2202.38,Cash,Pune,Travel expense at Uber,2025,September,Tuesday
+2026-03-21,Travel,Train,2100.39,Cash,Pune,Travel expense at Train,2026,March,Saturday
+2025-03-19,Food,Cafe Coffee Day,1832.21,UPI,Pune,Food expense at Cafe Coffee Day,2025,March,Wednesday
+2025-11-27,Entertainment,Netflix,2885.37,Cash,Bangalore,Entertainment expense at Netflix,2025,November,Thursday
+2025-03-17,Food,Zomato,3094.81,Cash,Delhi,Food expense at Zomato,2025,March,Monday
+2025-07-09,Travel,Uber,4763.01,Debit Card,Pune,Travel expense at Uber,2025,July,Wednesday
+2026-01-11,Education,Books Store,595.77,Cash,Bangalore,Education expense at Books Store,2026,January,Sunday
+2025-05-26,Bills,Electricity,4784.82,UPI,Bangalore,Bills expense at Electricity,2025,May,Monday
+2025-12-08,Health,Hospital,3511.37,UPI,Pune,Health expense at Hospital,2025,December,Monday
+2026-04-12,Bills,Electricity,4169.16,Cash,Pune,Bills expense at Electricity,2026,April,Sunday
+2025-08-27,Education,Books Store,3190.85,UPI,Mumbai,Education expense at Books Store,2025,August,Wednesday
+2026-01-19,Health,Hospital,2698.02,Debit Card,Bangalore,Health expense at Hospital,2026,January,Monday
+2025-03-05,Education,Books Store,4818.82,UPI,Bangalore,Education expense at Books Store,2025,March,Wednesday
+2025-12-04,Travel,Uber,969.67,Debit Card,Mumbai,Travel expense at Uber,2025,December,Thursday
+2026-02-03,Health,Gym,1703.57,Credit Card,Aurangabad,Health expense at Gym,2026,February,Tuesday
+2026-04-26,Bills,Internet,1125.34,Cash,Pune,Bills expense at Internet,2026,April,Sunday
+2025-12-26,Food,Zomato,457.68,Cash,Mumbai,Food expense at Zomato,2025,December,Friday
+2025-03-27,Bills,Electricity,1391.33,Cash,Aurangabad,Bills expense at Electricity,2025,March,Thursday
+2025-02-15,Shopping,Mall,4290.18,Debit Card,Aurangabad,Shopping expense at Mall,2025,February,Saturday
+2025-12-11,Health,Pharmacy,4995.1,Credit Card,Delhi,Health expense at Pharmacy,2025,December,Thursday
+2025-07-10,Food,Swiggy,4771.31,Cash,Delhi,Food expense at Swiggy,2025,July,Thursday
+2025-12-25,Health,Pharmacy,834.9,Credit Card,Aurangabad,Health expense at Pharmacy,2025,December,Thursday
+2026-05-01,Travel,Bus,1523.55,Credit Card,Aurangabad,Travel expense at Bus,2026,May,Friday
+2025-05-11,Health,Hospital,2922.28,Debit Card,Aurangabad,Health expense at Hospital,2025,May,Sunday
+2026-02-14,Travel,Uber,4187.34,Credit Card,Pune,Travel expense at Uber,2026,February,Saturday
+2026-04-19,Bills,Internet,1050.91,Cash,Delhi,Bills expense at Internet,2026,April,Sunday
+2026-01-09,Health,Gym,2023.31,Cash,Pune,Health expense at Gym,2026,January,Friday
+2025-02-12,Health,Gym,296.86,UPI,Aurangabad,Health expense at Gym,2025,February,Wednesday
+2025-02-26,Bills,Internet,3092.4,Debit Card,Aurangabad,Bills expense at Internet,2025,February,Wednesday
+2025-09-14,Shopping,Mall,4500.87,UPI,Mumbai,Shopping expense at Mall,2025,September,Sunday
+2025-10-23,Entertainment,Gaming Zone,4648.04,Cash,Delhi,Entertainment expense at Gaming Zone,2025,October,Thursday
+2025-11-06,Travel,Ola,3704.09,UPI,Mumbai,Travel expense at Ola,2025,November,Thursday
+2026-01-15,Travel,Train,3564.08,Credit Card,Bangalore,Travel expense at Train,2026,January,Thursday
+2025-10-12,Bills,Water Bill,3976.41,Debit Card,Aurangabad,Bills expense at Water Bill,2025,October,Sunday
+2025-07-21,Shopping,Flipkart,207.84,Debit Card,Pune,Shopping expense at Flipkart,2025,July,Monday
+2026-03-31,Health,Pharmacy,1481.96,Cash,Delhi,Health expense at Pharmacy,2026,March,Tuesday
+2025-10-12,Travel,Bus,1783.76,UPI,Bangalore,Travel expense at Bus,2025,October,Sunday
+2025-07-22,Travel,Train,1513.89,UPI,Mumbai,Travel expense at Train,2025,July,Tuesday
+2025-01-17,Health,Pharmacy,1186.54,Debit Card,Delhi,Health expense at Pharmacy,2025,January,Friday
+2025-02-20,Bills,Water Bill,3961.53,Cash,Aurangabad,Bills expense at Water Bill,2025,February,Thursday
+2025-05-21,Education,Books Store,2122.56,Cash,Mumbai,Education expense at Books Store,2025,May,Wednesday
+2025-04-15,Education,Udemy,2446.91,Debit Card,Delhi,Education expense at Udemy,2025,April,Tuesday
+2025-10-22,Health,Hospital,3847.48,Credit Card,Pune,Health expense at Hospital,2025,October,Wednesday
+2025-08-12,Bills,Water Bill,4105.37,Cash,Delhi,Bills expense at Water Bill,2025,August,Tuesday
+2025-11-27,Travel,Ola,2292.88,Credit Card,Delhi,Travel expense at Ola,2025,November,Thursday
+2025-05-28,Health,Hospital,4996.28,Cash,Pune,Health expense at Hospital,2025,May,Wednesday
+2026-03-02,Bills,Internet,2547.74,Cash,Aurangabad,Bills expense at Internet,2026,March,Monday
+2025-12-31,Food,Cafe Coffee Day,3073.09,Credit Card,Delhi,Food expense at Cafe Coffee Day,2025,December,Wednesday
+2025-06-24,Health,Pharmacy,4534.75,Cash,Bangalore,Health expense at Pharmacy,2025,June,Tuesday
+2025-08-05,Bills,Electricity,1151.28,Cash,Aurangabad,Bills expense at Electricity,2025,August,Tuesday
+2025-06-20,Bills,Internet,1841.58,Debit Card,Pune,Bills expense at Internet,2025,June,Friday
+2025-01-25,Health,Pharmacy,4984.7,Debit Card,Delhi,Health expense at Pharmacy,2025,January,Saturday
+2025-08-31,Bills,Water Bill,1170.52,Cash,Aurangabad,Bills expense at Water Bill,2025,August,Sunday
+2025-06-21,Education,Udemy,2276.35,UPI,Delhi,Education expense at Udemy,2025,June,Saturday
+2025-12-20,Food,Dominos,2571.54,Debit Card,Delhi,Food expense at Dominos,2025,December,Saturday
+2026-01-16,Entertainment,Movie,2696.29,Debit Card,Pune,Entertainment expense at Movie,2026,January,Friday
+2025-04-16,Bills,Electricity,1801.18,Cash,Mumbai,Bills expense at Electricity,2025,April,Wednesday
+2025-04-30,Health,Hospital,342.04,UPI,Mumbai,Health expense at Hospital,2025,April,Wednesday
+2026-01-05,Shopping,Mall,3385.75,Cash,Bangalore,Shopping expense at Mall,2026,January,Monday
+2026-04-13,Food,Dominos,2677.36,UPI,Delhi,Food expense at Dominos,2026,April,Monday
+2025-01-18,Health,Gym,2363.04,Debit Card,Delhi,Health expense at Gym,2025,January,Saturday
+2026-02-13,Food,Zomato,842.69,Cash,Mumbai,Food expense at Zomato,2026,February,Friday
+2025-01-01,Food,Swiggy,3166.93,Debit Card,Bangalore,Food expense at Swiggy,2025,January,Wednesday
+2025-04-24,Bills,Water Bill,4352.08,Credit Card,Mumbai,Bills expense at Water Bill,2025,April,Thursday
+2025-12-01,Shopping,Amazon,1704.7,Debit Card,Bangalore,Shopping expense at Amazon,2025,December,Monday
+2025-01-13,Food,Swiggy,2890.71,Cash,Mumbai,Food expense at Swiggy,2025,January,Monday
+2026-03-18,Entertainment,Netflix,4884.53,Cash,Mumbai,Entertainment expense at Netflix,2026,March,Wednesday
+2026-01-16,Health,Hospital,1715.4,Credit Card,Pune,Health expense at Hospital,2026,January,Friday
+2025-06-24,Food,Swiggy,1316.81,Debit Card,Aurangabad,Food expense at Swiggy,2025,June,Tuesday
+2025-07-28,Shopping,Mall,3315.37,Cash,Mumbai,Shopping expense at Mall,2025,July,Monday
+2025-07-04,Entertainment,Netflix,4904.11,Debit Card,Aurangabad,Entertainment expense at Netflix,2025,July,Friday
+2025-01-23,Bills,Internet,1283.23,UPI,Mumbai,Bills expense at Internet,2025,January,Thursday
+2025-12-19,Education,Coursera,1257.21,Credit Card,Bangalore,Education expense at Coursera,2025,December,Friday
+2025-08-21,Education,Udemy,4521.35,Credit Card,Aurangabad,Education expense at Udemy,2025,August,Thursday
+2026-01-25,Bills,Internet,2854.22,Cash,Delhi,Bills expense at Internet,2026,January,Sunday
+2025-06-18,Travel,Train,4201.06,Cash,Pune,Travel expense at Train,2025,June,Wednesday
+2025-02-10,Food,Dominos,1615.31,UPI,Mumbai,Food expense at Dominos,2025,February,Monday
+2026-04-07,Education,Udemy,3078.97,Debit Card,Mumbai,Education expense at Udemy,2026,April,Tuesday
+2026-02-21,Bills,Electricity,2540.52,UPI,Aurangabad,Bills expense at Electricity,2026,February,Saturday
+2025-03-25,Bills,Internet,4811.25,Cash,Aurangabad,Bills expense at Internet,2025,March,Tuesday
+2025-02-28,Food,Swiggy,218.57,Cash,Aurangabad,Food expense at Swiggy,2025,February,Friday
+2025-06-20,Shopping,Mall,1503.72,UPI,Aurangabad,Shopping expense at Mall,2025,June,Friday
+2026-01-15,Education,Udemy,560.86,Debit Card,Aurangabad,Education expense at Udemy,2026,January,Thursday
+2025-04-23,Food,Dominos,3079.28,Debit Card,Pune,Food expense at Dominos,2025,April,Wednesday
+2025-01-02,Entertainment,Gaming Zone,496.84,Debit Card,Mumbai,Entertainment expense at Gaming Zone,2025,January,Thursday
+2025-01-01,Education,Books Store,4961.7,Credit Card,Aurangabad,Education expense at Books Store,2025,January,Wednesday
+2025-10-16,Education,Books Store,879.68,Debit Card,Mumbai,Education expense at Books Store,2025,October,Thursday
+2026-02-13,Shopping,Amazon,4822.79,Cash,Mumbai,Shopping expense at Amazon,2026,February,Friday
+2026-02-13,Bills,Internet,1744.41,Debit Card,Mumbai,Bills expense at Internet,2026,February,Friday
+2025-03-23,Food,Cafe Coffee Day,4801.24,UPI,Pune,Food expense at Cafe Coffee Day,2025,March,Sunday
+2025-09-18,Bills,Electricity,76.78,UPI,Pune,Bills expense at Electricity,2025,September,Thursday
+2025-09-02,Education,Coursera,1235.82,Cash,Bangalore,Education expense at Coursera,2025,September,Tuesday
+2025-03-01,Food,Swiggy,4435.69,UPI,Pune,Food expense at Swiggy,2025,March,Saturday
+2025-04-04,Travel,Train,3993.74,UPI,Mumbai,Travel expense at Train,2025,April,Friday
+2026-01-21,Food,Cafe Coffee Day,3933.14,UPI,Mumbai,Food expense at Cafe Coffee Day,2026,January,Wednesday
+2026-03-22,Education,Udemy,2757.34,Cash,Mumbai,Education expense at Udemy,2026,March,Sunday
+2025-05-04,Travel,Uber,3184.78,Cash,Pune,Travel expense at Uber,2025,May,Sunday
+2025-07-26,Shopping,Flipkart,1395.81,UPI,Bangalore,Shopping expense at Flipkart,2025,July,Saturday
+2025-06-16,Bills,Water Bill,2784.29,UPI,Pune,Bills expense at Water Bill,2025,June,Monday
+2026-04-05,Food,Swiggy,495.92,Cash,Bangalore,Food expense at Swiggy,2026,April,Sunday
+2025-05-26,Education,Udemy,3401.0,UPI,Delhi,Education expense at Udemy,2025,May,Monday
+2025-01-01,Travel,Uber,2135.2,UPI,Pune,Travel expense at Uber,2025,January,Wednesday
+2025-05-12,Education,Udemy,1939.3,Cash,Bangalore,Education expense at Udemy,2025,May,Monday
+2025-05-05,Food,Zomato,1157.18,Cash,Delhi,Food expense at Zomato,2025,May,Monday
+2025-12-03,Education,Books Store,2477.89,Debit Card,Pune,Education expense at Books Store,2025,December,Wednesday
+2025-12-01,Travel,Train,3904.69,Debit Card,Aurangabad,Travel expense at Train,2025,December,Monday
+2025-08-17,Entertainment,Netflix,4692.75,Cash,Bangalore,Entertainment expense at Netflix,2025,August,Sunday
+2025-08-24,Education,Coursera,1202.8,Debit Card,Mumbai,Education expense at Coursera,2025,August,Sunday
+2025-08-14,Education,Udemy,4310.45,Cash,Mumbai,Education expense at Udemy,2025,August,Thursday
+2025-10-05,Entertainment,Movie,4549.59,Credit Card,Aurangabad,Entertainment expense at Movie,2025,October,Sunday
+2026-03-07,Shopping,Mall,4573.13,Credit Card,Aurangabad,Shopping expense at Mall,2026,March,Saturday
+2025-10-01,Food,Dominos,4536.18,Debit Card,Pune,Food expense at Dominos,2025,October,Wednesday
+2026-03-09,Shopping,Flipkart,4023.19,Debit Card,Bangalore,Shopping expense at Flipkart,2026,March,Monday
+2025-06-08,Shopping,Mall,200.43,UPI,Mumbai,Shopping expense at Mall,2025,June,Sunday
+2025-05-22,Shopping,Amazon,4587.7,Credit Card,Delhi,Shopping expense at Amazon,2025,May,Thursday
+2026-04-10,Travel,Ola,122.39,Credit Card,Delhi,Travel expense at Ola,2026,April,Friday
+2026-01-14,Health,Pharmacy,3446.3,Debit Card,Bangalore,Health expense at Pharmacy,2026,January,Wednesday
+2025-04-21,Shopping,Mall,2257.72,Debit Card,Pune,Shopping expense at Mall,2025,April,Monday
+2025-09-19,Food,Swiggy,156.55,Cash,Delhi,Food expense at Swiggy,2025,September,Friday
+2025-01-30,Food,Dominos,3691.06,Credit Card,Pune,Food expense at Dominos,2025,January,Thursday
+2025-02-16,Food,Dominos,2164.36,Cash,Mumbai,Food expense at Dominos,2025,February,Sunday
+2025-07-16,Education,Coursera,2445.54,UPI,Bangalore,Education expense at Coursera,2025,July,Wednesday
+2025-12-27,Food,Dominos,3456.93,UPI,Delhi,Food expense at Dominos,2025,December,Saturday
+2025-06-04,Travel,Ola,3080.09,Credit Card,Aurangabad,Travel expense at Ola,2025,June,Wednesday
+2025-08-04,Health,Pharmacy,2551.87,Cash,Aurangabad,Health expense at Pharmacy,2025,August,Monday
+2025-12-16,Travel,Bus,4337.43,Debit Card,Aurangabad,Travel expense at Bus,2025,December,Tuesday
+2025-10-05,Health,Hospital,3296.8,Debit Card,Mumbai,Health expense at Hospital,2025,October,Sunday
+2025-11-17,Entertainment,Gaming Zone,3710.55,UPI,Delhi,Entertainment expense at Gaming Zone,2025,November,Monday
+2025-11-07,Bills,Internet,3358.29,Cash,Mumbai,Bills expense at Internet,2025,November,Friday
+2025-04-03,Health,Pharmacy,4756.54,UPI,Aurangabad,Health expense at Pharmacy,2025,April,Thursday
+2025-06-28,Entertainment,Movie,3357.13,UPI,Mumbai,Entertainment expense at Movie,2025,June,Saturday
+2025-06-28,Food,Cafe Coffee Day,4589.12,Debit Card,Pune,Food expense at Cafe Coffee Day,2025,June,Saturday
+2025-03-04,Food,Cafe Coffee Day,1995.88,Cash,Aurangabad,Food expense at Cafe Coffee Day,2025,March,Tuesday
+2025-03-19,Entertainment,Netflix,1885.5,Credit Card,Mumbai,Entertainment expense at Netflix,2025,March,Wednesday
+2025-11-25,Education,Coursera,852.63,Cash,Bangalore,Education expense at Coursera,2025,November,Tuesday
+2025-01-22,Shopping,Amazon,3630.17,Debit Card,Bangalore,Shopping expense at Amazon,2025,January,Wednesday
+2026-01-11,Education,Books Store,118.93,Debit Card,Pune,Education expense at Books Store,2026,January,Sunday
+2026-02-15,Bills,Water Bill,3731.01,UPI,Mumbai,Bills expense at Water Bill,2026,February,Sunday
+2025-08-15,Bills,Internet,1487.9,UPI,Pune,Bills expense at Internet,2025,August,Friday
+2025-02-25,Food,Zomato,2059.31,Credit Card,Aurangabad,Food expense at Zomato,2025,February,Tuesday
+2025-03-01,Bills,Electricity,2552.48,UPI,Pune,Bills expense at Electricity,2025,March,Saturday
+2025-03-17,Travel,Train,3442.86,Debit Card,Bangalore,Travel expense at Train,2025,March,Monday
+2025-05-01,Education,Udemy,2975.23,UPI,Delhi,Education expense at Udemy,2025,May,Thursday
+2025-12-06,Health,Hospital,1621.7,UPI,Delhi,Health expense at Hospital,2025,December,Saturday
+2025-12-10,Travel,Ola,3409.73,UPI,Bangalore,Travel expense at Ola,2025,December,Wednesday
+2026-01-03,Travel,Bus,1522.19,Credit Card,Delhi,Travel expense at Bus,2026,January,Saturday
+2026-03-23,Travel,Train,583.17,Credit Card,Bangalore,Travel expense at Train,2026,March,Monday
+2025-12-17,Bills,Internet,4810.12,Cash,Mumbai,Bills expense at Internet,2025,December,Wednesday
+2025-01-24,Health,Hospital,4781.88,Credit Card,Aurangabad,Health expense at Hospital,2025,January,Friday
+2026-01-26,Bills,Electricity,4291.01,Credit Card,Mumbai,Bills expense at Electricity,2026,January,Monday
+2025-10-04,Bills,Electricity,4548.7,Debit Card,Mumbai,Bills expense at Electricity,2025,October,Saturday
+2025-04-03,Food,Swiggy,197.18,Debit Card,Delhi,Food expense at Swiggy,2025,April,Thursday
+2026-01-08,Shopping,Amazon,790.18,Debit Card,Pune,Shopping expense at Amazon,2026,January,Thursday
+2025-02-14,Education,Coursera,3802.88,Debit Card,Aurangabad,Education expense at Coursera,2025,February,Friday
+2025-07-20,Travel,Ola,2011.33,Debit Card,Mumbai,Travel expense at Ola,2025,July,Sunday
+2025-02-17,Travel,Train,1295.14,Credit Card,Mumbai,Travel expense at Train,2025,February,Monday
+2025-03-20,Bills,Electricity,2696.44,UPI,Aurangabad,Bills expense at Electricity,2025,March,Thursday
+2026-03-21,Education,Coursera,3999.13,UPI,Bangalore,Education expense at Coursera,2026,March,Saturday
+2025-11-21,Food,Swiggy,293.13,Credit Card,Pune,Food expense at Swiggy,2025,November,Friday
+2026-03-19,Entertainment,Movie,4983.67,Cash,Mumbai,Entertainment expense at Movie,2026,March,Thursday
+2026-04-30,Travel,Bus,4349.77,UPI,Pune,Travel expense at Bus,2026,April,Thursday
+2025-11-17,Shopping,Mall,2566.72,Debit Card,Delhi,Shopping expense at Mall,2025,November,Monday
+2025-12-27,Food,Zomato,2151.66,Cash,Aurangabad,Food expense at Zomato,2025,December,Saturday
+2025-01-08,Bills,Electricity,384.05,Credit Card,Pune,Bills expense at Electricity,2025,January,Wednesday
+2026-03-20,Shopping,Amazon,1144.93,Debit Card,Bangalore,Shopping expense at Amazon,2026,March,Friday
+2025-05-30,Food,Dominos,2314.61,Cash,Delhi,Food expense at Dominos,2025,May,Friday
+2026-02-03,Education,Udemy,481.39,UPI,Mumbai,Education expense at Udemy,2026,February,Tuesday
+2025-02-12,Shopping,Flipkart,491.46,UPI,Aurangabad,Shopping expense at Flipkart,2025,February,Wednesday
+2026-03-19,Entertainment,Gaming Zone,1327.16,Cash,Mumbai,Entertainment expense at Gaming Zone,2026,March,Thursday
+2026-01-27,Bills,Internet,4879.37,UPI,Bangalore,Bills expense at Internet,2026,January,Tuesday
+2025-02-26,Food,Swiggy,3801.51,Debit Card,Pune,Food expense at Swiggy,2025,February,Wednesday
+2025-03-05,Bills,Internet,1950.7,UPI,Mumbai,Bills expense at Internet,2025,March,Wednesday
+2026-03-24,Food,Dominos,4163.39,Debit Card,Pune,Food expense at Dominos,2026,March,Tuesday
+2026-01-04,Shopping,Mall,2305.31,Debit Card,Pune,Shopping expense at Mall,2026,January,Sunday
+2026-03-17,Education,Udemy,3616.38,Credit Card,Bangalore,Education expense at Udemy,2026,March,Tuesday
+2025-11-10,Bills,Electricity,1812.53,Credit Card,Delhi,Bills expense at Electricity,2025,November,Monday
+2025-02-25,Education,Coursera,2277.0,Credit Card,Mumbai,Education expense at Coursera,2025,February,Tuesday
+2025-09-14,Health,Gym,940.92,Credit Card,Bangalore,Health expense at Gym,2025,September,Sunday
+2026-02-17,Education,Books Store,1745.57,Cash,Bangalore,Education expense at Books Store,2026,February,Tuesday
+2026-02-09,Shopping,Mall,309.01,Cash,Pune,Shopping expense at Mall,2026,February,Monday
+2025-08-23,Bills,Internet,307.16,UPI,Delhi,Bills expense at Internet,2025,August,Saturday
+2026-01-11,Food,Swiggy,1056.18,Debit Card,Mumbai,Food expense at Swiggy,2026,January,Sunday
+2025-02-03,Bills,Internet,514.99,Credit Card,Aurangabad,Bills expense at Internet,2025,February,Monday
+2025-01-26,Shopping,Flipkart,615.57,Debit Card,Aurangabad,Shopping expense at Flipkart,2025,January,Sunday
+2025-07-10,Health,Hospital,4584.15,Cash,Aurangabad,Health expense at Hospital,2025,July,Thursday
+2025-04-22,Shopping,Amazon,3324.48,Cash,Delhi,Shopping expense at Amazon,2025,April,Tuesday
+2025-01-24,Shopping,Flipkart,277.62,Cash,Aurangabad,Shopping expense at Flipkart,2025,January,Friday
+2025-01-30,Health,Pharmacy,759.85,Debit Card,Bangalore,Health expense at Pharmacy,2025,January,Thursday
+2025-08-14,Food,Cafe Coffee Day,4073.16,UPI,Mumbai,Food expense at Cafe Coffee Day,2025,August,Thursday
+2025-04-21,Food,Cafe Coffee Day,4796.17,Debit Card,Aurangabad,Food expense at Cafe Coffee Day,2025,April,Monday
+2025-07-16,Health,Hospital,2855.84,Debit Card,Pune,Health expense at Hospital,2025,July,Wednesday
+2025-11-20,Food,Dominos,941.23,UPI,Mumbai,Food expense at Dominos,2025,November,Thursday
+2026-01-23,Education,Coursera,2028.38,Debit Card,Mumbai,Education expense at Coursera,2026,January,Friday
+2025-11-12,Food,Cafe Coffee Day,537.97,UPI,Aurangabad,Food expense at Cafe Coffee Day,2025,November,Wednesday
+2025-04-20,Food,Zomato,2759.37,Credit Card,Aurangabad,Food expense at Zomato,2025,April,Sunday
+2025-12-27,Shopping,Mall,3207.11,Credit Card,Mumbai,Shopping expense at Mall,2025,December,Saturday
+2025-01-22,Entertainment,Movie,4741.23,Cash,Aurangabad,Entertainment expense at Movie,2025,January,Wednesday
+2025-08-30,Shopping,Amazon,3152.07,UPI,Delhi,Shopping expense at Amazon,2025,August,Saturday
+2025-12-31,Education,Coursera,865.4,UPI,Mumbai,Education expense at Coursera,2025,December,Wednesday
+2025-11-10,Bills,Internet,952.23,Credit Card,Pune,Bills expense at Internet,2025,November,Monday
+2025-12-24,Travel,Bus,888.16,Cash,Delhi,Travel expense at Bus,2025,December,Wednesday
+2025-05-13,Food,Zomato,4253.22,UPI,Delhi,Food expense at Zomato,2025,May,Tuesday
+2025-03-15,Health,Gym,118.17,Credit Card,Delhi,Health expense at Gym,2025,March,Saturday
+2026-04-26,Health,Pharmacy,298.27,UPI,Pune,Health expense at Pharmacy,2026,April,Sunday
+2025-12-02,Education,Coursera,2231.5,UPI,Pune,Education expense at Coursera,2025,December,Tuesday
+2026-03-29,Education,Coursera,2641.61,Debit Card,Bangalore,Education expense at Coursera,2026,March,Sunday
+2025-02-13,Food,Zomato,4755.57,Cash,Aurangabad,Food expense at Zomato,2025,February,Thursday
+2025-11-29,Education,Coursera,3137.59,Cash,Delhi,Education expense at Coursera,2025,November,Saturday
+2026-03-13,Education,Udemy,3963.81,Debit Card,Bangalore,Education expense at Udemy,2026,March,Friday
+2026-02-07,Bills,Electricity,1263.1,Credit Card,Bangalore,Bills expense at Electricity,2026,February,Saturday
+2025-11-25,Bills,Water Bill,4893.41,Credit Card,Aurangabad,Bills expense at Water Bill,2025,November,Tuesday
+2026-02-09,Travel,Ola,4659.46,Debit Card,Aurangabad,Travel expense at Ola,2026,February,Monday
+2025-11-11,Entertainment,Gaming Zone,2043.47,UPI,Delhi,Entertainment expense at Gaming Zone,2025,November,Tuesday
+2025-03-30,Travel,Train,1038.94,Debit Card,Delhi,Travel expense at Train,2025,March,Sunday
+2025-04-22,Education,Udemy,4970.69,Credit Card,Delhi,Education expense at Udemy,2025,April,Tuesday
+2026-04-20,Travel,Uber,3650.94,Credit Card,Mumbai,Travel expense at Uber,2026,April,Monday
+2025-03-23,Health,Hospital,2207.53,Debit Card,Mumbai,Health expense at Hospital,2025,March,Sunday
+2025-06-23,Entertainment,Netflix,183.23,Cash,Aurangabad,Entertainment expense at Netflix,2025,June,Monday
+2025-09-26,Travel,Ola,3631.68,Credit Card,Mumbai,Travel expense at Ola,2025,September,Friday
+2026-02-06,Travel,Ola,3576.72,Debit Card,Delhi,Travel expense at Ola,2026,February,Friday
+2026-04-09,Shopping,Mall,907.85,Cash,Aurangabad,Shopping expense at Mall,2026,April,Thursday
+2025-01-27,Education,Books Store,559.84,Credit Card,Mumbai,Education expense at Books Store,2025,January,Monday
+2026-01-25,Travel,Bus,4946.32,UPI,Bangalore,Travel expense at Bus,2026,January,Sunday
+2025-07-30,Entertainment,Gaming Zone,2311.73,Debit Card,Aurangabad,Entertainment expense at Gaming Zone,2025,July,Wednesday
+2025-04-29,Shopping,Mall,3882.83,Debit Card,Pune,Shopping expense at Mall,2025,April,Tuesday
+2025-10-22,Education,Books Store,3272.62,Debit Card,Mumbai,Education expense at Books Store,2025,October,Wednesday
+2025-12-06,Travel,Bus,1695.22,Cash,Aurangabad,Travel expense at Bus,2025,December,Saturday
+2025-12-02,Entertainment,Movie,3648.53,UPI,Aurangabad,Entertainment expense at Movie,2025,December,Tuesday
+2025-01-25,Shopping,Flipkart,485.81,Credit Card,Pune,Shopping expense at Flipkart,2025,January,Saturday
+2025-08-13,Bills,Electricity,1946.41,UPI,Mumbai,Bills expense at Electricity,2025,August,Wednesday
+2025-08-24,Food,Cafe Coffee Day,1487.92,Credit Card,Pune,Food expense at Cafe Coffee Day,2025,August,Sunday
+2026-04-21,Bills,Internet,1906.83,Credit Card,Mumbai,Bills expense at Internet,2026,April,Tuesday
+2026-03-08,Education,Coursera,2237.93,Debit Card,Bangalore,Education expense at Coursera,2026,March,Sunday
+2025-09-09,Education,Udemy,2327.66,Credit Card,Bangalore,Education expense at Udemy,2025,September,Tuesday
+2026-03-14,Travel,Ola,4619.58,Cash,Pune,Travel expense at Ola,2026,March,Saturday
+2026-03-31,Food,Dominos,3098.74,UPI,Delhi,Food expense at Dominos,2026,March,Tuesday
+2025-12-12,Education,Books Store,4513.95,Debit Card,Pune,Education expense at Books Store,2025,December,Friday
+2025-04-30,Entertainment,Gaming Zone,1778.64,Debit Card,Bangalore,Entertainment expense at Gaming Zone,2025,April,Wednesday
+2025-09-18,Travel,Ola,3293.79,UPI,Delhi,Travel expense at Ola,2025,September,Thursday
+2026-01-30,Food,Swiggy,4517.79,Debit Card,Bangalore,Food expense at Swiggy,2026,January,Friday
+2025-07-26,Food,Dominos,1964.36,Cash,Bangalore,Food expense at Dominos,2025,July,Saturday
+2026-04-20,Bills,Internet,2995.67,Credit Card,Bangalore,Bills expense at Internet,2026,April,Monday
+2026-03-27,Education,Udemy,1907.77,Cash,Bangalore,Education expense at Udemy,2026,March,Friday
+2025-04-01,Health,Pharmacy,88.24,Credit Card,Aurangabad,Health expense at Pharmacy,2025,April,Tuesday
+2025-07-15,Bills,Water Bill,2164.14,Debit Card,Delhi,Bills expense at Water Bill,2025,July,Tuesday
+2025-04-11,Health,Hospital,4089.77,UPI,Bangalore,Health expense at Hospital,2025,April,Friday
+2026-02-25,Health,Gym,2095.97,Debit Card,Mumbai,Health expense at Gym,2026,February,Wednesday
+2026-02-03,Education,Coursera,126.85,Debit Card,Pune,Education expense at Coursera,2026,February,Tuesday
+2025-05-22,Entertainment,Movie,4032.37,Credit Card,Delhi,Entertainment expense at Movie,2025,May,Thursday
+2025-10-27,Food,Cafe Coffee Day,512.17,Credit Card,Pune,Food expense at Cafe Coffee Day,2025,October,Monday
+2025-03-18,Bills,Internet,3399.29,Credit Card,Mumbai,Bills expense at Internet,2025,March,Tuesday
+2025-11-22,Travel,Uber,1280.06,UPI,Pune,Travel expense at Uber,2025,November,Saturday
+2025-10-08,Shopping,Mall,164.45,UPI,Bangalore,Shopping expense at Mall,2025,October,Wednesday
+2025-12-25,Education,Coursera,1420.65,UPI,Mumbai,Education expense at Coursera,2025,December,Thursday
+2025-04-21,Bills,Water Bill,2192.76,UPI,Delhi,Bills expense at Water Bill,2025,April,Monday
+2025-12-18,Education,Udemy,2930.59,Debit Card,Pune,Education expense at Udemy,2025,December,Thursday
+2025-04-18,Entertainment,Movie,4372.58,Cash,Delhi,Entertainment expense at Movie,2025,April,Friday
+2026-03-07,Shopping,Amazon,4409.36,Cash,Pune,Shopping expense at Amazon,2026,March,Saturday
+2025-06-13,Entertainment,Netflix,1414.55,UPI,Bangalore,Entertainment expense at Netflix,2025,June,Friday
+2025-07-17,Health,Gym,1085.65,Cash,Delhi,Health expense at Gym,2025,July,Thursday
+2025-09-10,Education,Books Store,4502.48,Cash,Pune,Education expense at Books Store,2025,September,Wednesday
+2025-01-17,Shopping,Flipkart,1163.45,UPI,Bangalore,Shopping expense at Flipkart,2025,January,Friday
+2025-06-14,Entertainment,Netflix,3675.72,Cash,Delhi,Entertainment expense at Netflix,2025,June,Saturday
+2026-05-01,Health,Gym,4489.64,Cash,Pune,Health expense at Gym,2026,May,Friday
+2025-04-16,Entertainment,Netflix,935.17,Credit Card,Aurangabad,Entertainment expense at Netflix,2025,April,Wednesday
+2025-12-07,Travel,Ola,2512.45,Cash,Aurangabad,Travel expense at Ola,2025,December,Sunday
+2025-09-24,Entertainment,Movie,2071.37,Cash,Bangalore,Entertainment expense at Movie,2025,September,Wednesday
+2026-01-22,Entertainment,Gaming Zone,798.19,Credit Card,Bangalore,Entertainment expense at Gaming Zone,2026,January,Thursday
+2025-02-04,Food,Swiggy,1999.93,Debit Card,Delhi,Food expense at Swiggy,2025,February,Tuesday
+2025-03-24,Entertainment,Movie,1882.18,Debit Card,Delhi,Entertainment expense at Movie,2025,March,Monday
+2025-05-13,Education,Udemy,4826.87,Credit Card,Mumbai,Education expense at Udemy,2025,May,Tuesday
+2026-01-25,Education,Udemy,2083.15,UPI,Mumbai,Education expense at Udemy,2026,January,Sunday
+2025-07-29,Travel,Uber,4235.55,Cash,Aurangabad,Travel expense at Uber,2025,July,Tuesday
+2025-06-24,Health,Gym,1237.77,Cash,Bangalore,Health expense at Gym,2025,June,Tuesday
+2026-04-17,Travel,Ola,1283.07,UPI,Aurangabad,Travel expense at Ola,2026,April,Friday
+2025-10-27,Education,Udemy,1775.58,Debit Card,Pune,Education expense at Udemy,2025,October,Monday
+2025-11-17,Food,Swiggy,1027.79,Debit Card,Delhi,Food expense at Swiggy,2025,November,Monday
+2025-06-22,Bills,Electricity,623.45,Debit Card,Mumbai,Bills expense at Electricity,2025,June,Sunday
+2025-09-09,Entertainment,Gaming Zone,1166.63,UPI,Delhi,Entertainment expense at Gaming Zone,2025,September,Tuesday
+2025-10-03,Entertainment,Movie,1269.72,UPI,Aurangabad,Entertainment expense at Movie,2025,October,Friday
+2025-02-20,Education,Coursera,4837.19,UPI,Mumbai,Education expense at Coursera,2025,February,Thursday
+2026-01-02,Education,Udemy,299.47,UPI,Aurangabad,Education expense at Udemy,2026,January,Friday
+2025-12-12,Travel,Train,4568.65,Credit Card,Mumbai,Travel expense at Train,2025,December,Friday
+2025-11-22,Food,Swiggy,2040.74,UPI,Mumbai,Food expense at Swiggy,2025,November,Saturday
+2025-08-30,Food,Zomato,869.35,Cash,Aurangabad,Food expense at Zomato,2025,August,Saturday
+2025-07-07,Entertainment,Gaming Zone,1746.42,UPI,Mumbai,Entertainment expense at Gaming Zone,2025,July,Monday
+2026-02-03,Shopping,Amazon,4859.21,Debit Card,Pune,Shopping expense at Amazon,2026,February,Tuesday
+2025-03-02,Entertainment,Movie,1084.37,Credit Card,Aurangabad,Entertainment expense at Movie,2025,March,Sunday
+2025-03-24,Food,Swiggy,248.02,Credit Card,Bangalore,Food expense at Swiggy,2025,March,Monday
+2025-03-19,Health,Hospital,2142.96,Credit Card,Delhi,Health expense at Hospital,2025,March,Wednesday
+2025-12-23,Food,Cafe Coffee Day,3132.32,Credit Card,Pune,Food expense at Cafe Coffee Day,2025,December,Tuesday
+2025-03-24,Health,Gym,3840.04,Debit Card,Aurangabad,Health expense at Gym,2025,March,Monday
+2025-02-13,Food,Zomato,4466.72,Debit Card,Mumbai,Food expense at Zomato,2025,February,Thursday
+2025-01-03,Entertainment,Gaming Zone,3139.17,UPI,Mumbai,Entertainment expense at Gaming Zone,2025,January,Friday
+2025-02-13,Health,Gym,4247.84,Debit Card,Mumbai,Health expense at Gym,2025,February,Thursday
+2026-01-19,Food,Dominos,4559.14,Debit Card,Delhi,Food expense at Dominos,2026,January,Monday
+2025-07-11,Travel,Train,4679.74,UPI,Aurangabad,Travel expense at Train,2025,July,Friday
+2025-07-22,Travel,Bus,4677.22,Debit Card,Pune,Travel expense at Bus,2025,July,Tuesday
+2025-05-14,Health,Hospital,1811.11,Credit Card,Bangalore,Health expense at Hospital,2025,May,Wednesday
+2025-08-09,Health,Gym,4526.47,Credit Card,Delhi,Health expense at Gym,2025,August,Saturday
+2026-03-29,Entertainment,Movie,2334.46,UPI,Mumbai,Entertainment expense at Movie,2026,March,Sunday
+2025-02-01,Education,Coursera,4925.15,Cash,Delhi,Education expense at Coursera,2025,February,Saturday
+2026-03-06,Food,Dominos,4668.11,UPI,Mumbai,Food expense at Dominos,2026,March,Friday
+2025-02-05,Bills,Water Bill,4754.15,UPI,Pune,Bills expense at Water Bill,2025,February,Wednesday
+2026-02-20,Entertainment,Movie,1049.21,Cash,Bangalore,Entertainment expense at Movie,2026,February,Friday
+2026-04-01,Health,Hospital,607.11,Cash,Mumbai,Health expense at Hospital,2026,April,Wednesday
+2025-10-30,Food,Swiggy,1458.27,Debit Card,Aurangabad,Food expense at Swiggy,2025,October,Thursday
+2025-12-28,Food,Cafe Coffee Day,1923.3,Cash,Mumbai,Food expense at Cafe Coffee Day,2025,December,Sunday
+2025-07-22,Food,Dominos,4517.09,Credit Card,Aurangabad,Food expense at Dominos,2025,July,Tuesday
+2025-09-07,Travel,Ola,2367.35,Debit Card,Delhi,Travel expense at Ola,2025,September,Sunday
+2026-03-28,Food,Swiggy,1981.54,Credit Card,Pune,Food expense at Swiggy,2026,March,Saturday
+2026-02-20,Education,Udemy,2332.34,Debit Card,Mumbai,Education expense at Udemy,2026,February,Friday
+2025-12-18,Travel,Ola,3181.42,Credit Card,Aurangabad,Travel expense at Ola,2025,December,Thursday
+2025-01-03,Entertainment,Gaming Zone,1478.08,Debit Card,Pune,Entertainment expense at Gaming Zone,2025,January,Friday
+2025-08-11,Bills,Water Bill,4089.62,Credit Card,Pune,Bills expense at Water Bill,2025,August,Monday
+2025-03-10,Travel,Train,2647.08,Debit Card,Bangalore,Travel expense at Train,2025,March,Monday
+2025-02-15,Health,Pharmacy,1511.22,UPI,Mumbai,Health expense at Pharmacy,2025,February,Saturday
+2025-05-14,Health,Gym,4465.12,UPI,Pune,Health expense at Gym,2025,May,Wednesday
+2025-11-27,Health,Gym,2913.7,Credit Card,Aurangabad,Health expense at Gym,2025,November,Thursday
+2025-10-25,Education,Udemy,4865.39,Debit Card,Bangalore,Education expense at Udemy,2025,October,Saturday
+2025-07-29,Entertainment,Movie,1137.79,Credit Card,Delhi,Entertainment expense at Movie,2025,July,Tuesday
+2025-03-07,Shopping,Mall,3713.41,Credit Card,Aurangabad,Shopping expense at Mall,2025,March,Friday
+2025-09-23,Entertainment,Gaming Zone,4913.49,Credit Card,Mumbai,Entertainment expense at Gaming Zone,2025,September,Tuesday
+2025-06-03,Bills,Internet,4377.26,UPI,Pune,Bills expense at Internet,2025,June,Tuesday
+2025-05-20,Travel,Ola,4939.76,UPI,Bangalore,Travel expense at Ola,2025,May,Tuesday
+2025-11-24,Education,Coursera,2194.37,UPI,Bangalore,Education expense at Coursera,2025,November,Monday
+2025-02-15,Bills,Water Bill,4579.33,Debit Card,Bangalore,Bills expense at Water Bill,2025,February,Saturday
+2026-01-05,Education,Books Store,2124.32,UPI,Mumbai,Education expense at Books Store,2026,January,Monday
+2026-03-07,Health,Hospital,1040.86,UPI,Aurangabad,Health expense at Hospital,2026,March,Saturday
+2025-03-08,Bills,Internet,4633.99,UPI,Bangalore,Bills expense at Internet,2025,March,Saturday
+2025-08-05,Food,Dominos,4415.48,Debit Card,Aurangabad,Food expense at Dominos,2025,August,Tuesday
+2026-03-30,Food,Swiggy,4850.11,Cash,Mumbai,Food expense at Swiggy,2026,March,Monday
+2026-03-25,Entertainment,Gaming Zone,2640.38,Cash,Bangalore,Entertainment expense at Gaming Zone,2026,March,Wednesday
+2026-04-10,Shopping,Mall,1196.61,UPI,Mumbai,Shopping expense at Mall,2026,April,Friday
+2025-09-12,Entertainment,Movie,1739.32,Cash,Aurangabad,Entertainment expense at Movie,2025,September,Friday
+2025-12-05,Food,Cafe Coffee Day,4725.02,UPI,Pune,Food expense at Cafe Coffee Day,2025,December,Friday
+2025-07-09,Education,Coursera,1317.66,Credit Card,Aurangabad,Education expense at Coursera,2025,July,Wednesday
+2025-05-09,Shopping,Flipkart,3519.86,Credit Card,Delhi,Shopping expense at Flipkart,2025,May,Friday
+2025-09-20,Bills,Internet,4428.28,Cash,Bangalore,Bills expense at Internet,2025,September,Saturday
+2025-04-18,Shopping,Flipkart,650.81,Debit Card,Pune,Shopping expense at Flipkart,2025,April,Friday
+2025-11-15,Education,Coursera,3007.89,Cash,Aurangabad,Education expense at Coursera,2025,November,Saturday
+2025-10-04,Education,Udemy,1452.11,Cash,Delhi,Education expense at Udemy,2025,October,Saturday
+2026-01-20,Travel,Train,368.56,Debit Card,Pune,Travel expense at Train,2026,January,Tuesday
+2025-11-11,Bills,Water Bill,1085.49,Cash,Pune,Bills expense at Water Bill,2025,November,Tuesday
+2025-04-27,Health,Hospital,1563.78,Debit Card,Bangalore,Health expense at Hospital,2025,April,Sunday
+2025-01-05,Health,Gym,3132.1,Debit Card,Delhi,Health expense at Gym,2025,January,Sunday
+2025-10-29,Food,Zomato,2344.79,Cash,Delhi,Food expense at Zomato,2025,October,Wednesday
+2025-03-04,Health,Hospital,3505.44,Credit Card,Bangalore,Health expense at Hospital,2025,March,Tuesday
+2025-02-12,Health,Hospital,3809.11,Credit Card,Pune,Health expense at Hospital,2025,February,Wednesday
+2025-11-26,Entertainment,Netflix,4095.26,Debit Card,Bangalore,Entertainment expense at Netflix,2025,November,Wednesday
+2025-02-27,Shopping,Mall,2044.39,Debit Card,Delhi,Shopping expense at Mall,2025,February,Thursday
+2025-10-10,Bills,Water Bill,1064.07,UPI,Bangalore,Bills expense at Water Bill,2025,October,Friday
+2025-05-18,Health,Pharmacy,1435.47,UPI,Pune,Health expense at Pharmacy,2025,May,Sunday
+2025-09-18,Travel,Bus,433.67,Cash,Pune,Travel expense at Bus,2025,September,Thursday
+2026-01-27,Health,Gym,227.42,Cash,Delhi,Health expense at Gym,2026,January,Tuesday
+2025-08-27,Shopping,Amazon,2897.22,Cash,Mumbai,Shopping expense at Amazon,2025,August,Wednesday
+2026-04-13,Entertainment,Movie,2103.05,Cash,Mumbai,Entertainment expense at Movie,2026,April,Monday
+2025-12-22,Food,Cafe Coffee Day,3519.26,Cash,Aurangabad,Food expense at Cafe Coffee Day,2025,December,Monday
+2025-11-19,Shopping,Amazon,3119.69,Cash,Delhi,Shopping expense at Amazon,2025,November,Wednesday
+2025-09-26,Health,Gym,579.36,Cash,Mumbai,Health expense at Gym,2025,September,Friday
+2025-01-20,Shopping,Flipkart,4621.06,Debit Card,Aurangabad,Shopping expense at Flipkart,2025,January,Monday
+2026-03-31,Bills,Internet,2008.69,UPI,Delhi,Bills expense at Internet,2026,March,Tuesday
+2025-07-28,Health,Gym,3390.19,UPI,Delhi,Health expense at Gym,2025,July,Monday
+2025-07-02,Shopping,Flipkart,4088.5,Credit Card,Pune,Shopping expense at Flipkart,2025,July,Wednesday
+2025-08-11,Bills,Internet,3516.74,Credit Card,Delhi,Bills expense at Internet,2025,August,Monday
+2026-01-29,Entertainment,Netflix,2311.31,Credit Card,Aurangabad,Entertainment expense at Netflix,2026,January,Thursday
+2026-02-18,Shopping,Amazon,1277.69,Debit Card,Delhi,Shopping expense at Amazon,2026,February,Wednesday
+2026-04-18,Food,Swiggy,3297.13,Debit Card,Aurangabad,Food expense at Swiggy,2026,April,Saturday
+2026-02-12,Shopping,Flipkart,2929.12,Cash,Bangalore,Shopping expense at Flipkart,2026,February,Thursday
+2025-05-07,Food,Zomato,2738.58,UPI,Pune,Food expense at Zomato,2025,May,Wednesday
+2025-05-08,Travel,Train,588.41,Credit Card,Pune,Travel expense at Train,2025,May,Thursday
+2025-11-17,Bills,Internet,1490.51,UPI,Mumbai,Bills expense at Internet,2025,November,Monday
+2025-10-16,Bills,Electricity,1632.89,Cash,Pune,Bills expense at Electricity,2025,October,Thursday
+2025-02-19,Travel,Ola,2096.2,Debit Card,Bangalore,Travel expense at Ola,2025,February,Wednesday
+2025-03-12,Travel,Ola,3106.36,Cash,Aurangabad,Travel expense at Ola,2025,March,Wednesday
+2025-12-01,Bills,Electricity,4717.92,Debit Card,Bangalore,Bills expense at Electricity,2025,December,Monday
+2025-11-23,Entertainment,Netflix,61.12,Cash,Pune,Entertainment expense at Netflix,2025,November,Sunday
+2025-10-18,Bills,Water Bill,2287.07,Cash,Bangalore,Bills expense at Water Bill,2025,October,Saturday
+2025-08-14,Health,Gym,1557.92,Debit Card,Bangalore,Health expense at Gym,2025,August,Thursday
+2025-08-26,Entertainment,Gaming Zone,4092.35,Cash,Pune,Entertainment expense at Gaming Zone,2025,August,Tuesday
+2026-04-06,Entertainment,Netflix,4530.99,UPI,Aurangabad,Entertainment expense at Netflix,2026,April,Monday
+2025-03-03,Bills,Internet,2435.45,UPI,Bangalore,Bills expense at Internet,2025,March,Monday
+2025-03-24,Food,Swiggy,2260.62,Cash,Mumbai,Food expense at Swiggy,2025,March,Monday
+2026-01-19,Bills,Water Bill,4736.22,Cash,Aurangabad,Bills expense at Water Bill,2026,January,Monday
+2025-09-14,Entertainment,Gaming Zone,63.18,UPI,Delhi,Entertainment expense at Gaming Zone,2025,September,Sunday
+2025-06-06,Shopping,Flipkart,2627.67,Debit Card,Bangalore,Shopping expense at Flipkart,2025,June,Friday
+2025-02-09,Health,Hospital,2283.65,Debit Card,Delhi,Health expense at Hospital,2025,February,Sunday
+2026-01-05,Shopping,Amazon,4224.31,UPI,Bangalore,Shopping expense at Amazon,2026,January,Monday
+2025-07-01,Shopping,Flipkart,2300.22,Debit Card,Bangalore,Shopping expense at Flipkart,2025,July,Tuesday
+2026-03-26,Entertainment,Movie,767.83,Credit Card,Delhi,Entertainment expense at Movie,2026,March,Thursday
+2025-07-22,Bills,Electricity,1223.59,Credit Card,Pune,Bills expense at Electricity,2025,July,Tuesday
+2025-03-20,Travel,Uber,4051.96,Credit Card,Delhi,Travel expense at Uber,2025,March,Thursday
+2025-08-03,Food,Zomato,898.25,Credit Card,Mumbai,Food expense at Zomato,2025,August,Sunday
+2025-06-24,Health,Hospital,1404.59,Cash,Mumbai,Health expense at Hospital,2025,June,Tuesday
+2026-01-18,Travel,Bus,268.82,UPI,Delhi,Travel expense at Bus,2026,January,Sunday
+2025-06-02,Entertainment,Gaming Zone,2270.49,Credit Card,Pune,Entertainment expense at Gaming Zone,2025,June,Monday
+2025-11-11,Entertainment,Netflix,4219.2,Debit Card,Aurangabad,Entertainment expense at Netflix,2025,November,Tuesday
+2026-04-12,Shopping,Flipkart,3213.99,UPI,Aurangabad,Shopping expense at Flipkart,2026,April,Sunday
+2025-01-13,Food,Dominos,212.65,Cash,Pune,Food expense at Dominos,2025,January,Monday
+2026-03-06,Shopping,Flipkart,1598.98,Cash,Bangalore,Shopping expense at Flipkart,2026,March,Friday
+2025-04-07,Entertainment,Gaming Zone,2891.0,Credit Card,Aurangabad,Entertainment expense at Gaming Zone,2025,April,Monday
+2026-04-09,Travel,Ola,2096.54,Credit Card,Mumbai,Travel expense at Ola,2026,April,Thursday
+2025-08-24,Food,Zomato,2685.89,Cash,Aurangabad,Food expense at Zomato,2025,August,Sunday
+2025-12-12,Entertainment,Gaming Zone,787.92,Credit Card,Mumbai,Entertainment expense at Gaming Zone,2025,December,Friday
+2025-07-24,Entertainment,Gaming Zone,1253.58,Credit Card,Aurangabad,Entertainment expense at Gaming Zone,2025,July,Thursday
+2025-03-05,Food,Swiggy,4287.7,Cash,Delhi,Food expense at Swiggy,2025,March,Wednesday
+2025-05-18,Education,Books Store,2386.18,UPI,Aurangabad,Education expense at Books Store,2025,May,Sunday
+2025-07-14,Entertainment,Netflix,4090.2,Cash,Delhi,Entertainment expense at Netflix,2025,July,Monday
+2025-08-30,Education,Coursera,4688.78,Cash,Aurangabad,Education expense at Coursera,2025,August,Saturday
+2025-02-26,Health,Pharmacy,2370.6,Debit Card,Mumbai,Health expense at Pharmacy,2025,February,Wednesday
+2025-04-12,Travel,Train,3790.19,Debit Card,Mumbai,Travel expense at Train,2025,April,Saturday
+2025-03-12,Travel,Bus,2454.34,Credit Card,Aurangabad,Travel expense at Bus,2025,March,Wednesday
+2026-04-09,Entertainment,Netflix,4805.09,UPI,Aurangabad,Entertainment expense at Netflix,2026,April,Thursday
+2025-07-31,Bills,Water Bill,469.0,Debit Card,Aurangabad,Bills expense at Water Bill,2025,July,Thursday
+2025-07-25,Travel,Train,2948.08,UPI,Aurangabad,Travel expense at Train,2025,July,Friday
+2025-10-27,Entertainment,Netflix,2479.86,Credit Card,Aurangabad,Entertainment expense at Netflix,2025,October,Monday
+2026-02-14,Education,Coursera,59.46,UPI,Bangalore,Education expense at Coursera,2026,February,Saturday
+2026-04-10,Health,Pharmacy,1787.12,Credit Card,Delhi,Health expense at Pharmacy,2026,April,Friday
+2026-02-03,Entertainment,Netflix,2106.59,UPI,Delhi,Entertainment expense at Netflix,2026,February,Tuesday
+2025-09-25,Food,Cafe Coffee Day,4506.88,Cash,Bangalore,Food expense at Cafe Coffee Day,2025,September,Thursday
+2025-06-10,Health,Gym,3367.42,Debit Card,Delhi,Health expense at Gym,2025,June,Tuesday
+2026-03-08,Food,Dominos,3649.04,UPI,Pune,Food expense at Dominos,2026,March,Sunday
+2025-08-01,Bills,Internet,3140.34,Debit Card,Pune,Bills expense at Internet,2025,August,Friday
+2025-09-20,Entertainment,Netflix,3874.64,Debit Card,Mumbai,Entertainment expense at Netflix,2025,September,Saturday
+2026-03-17,Food,Zomato,3143.7,UPI,Pune,Food expense at Zomato,2026,March,Tuesday
+2025-10-08,Health,Pharmacy,4437.3,Credit Card,Mumbai,Health expense at Pharmacy,2025,October,Wednesday
+2025-04-20,Food,Zomato,3229.8,Debit Card,Pune,Food expense at Zomato,2025,April,Sunday
+2026-03-18,Entertainment,Netflix,2670.22,Cash,Bangalore,Entertainment expense at Netflix,2026,March,Wednesday
+2026-03-20,Health,Pharmacy,161.8,Debit Card,Mumbai,Health expense at Pharmacy,2026,March,Friday
+2026-01-19,Bills,Internet,605.53,Cash,Aurangabad,Bills expense at Internet,2026,January,Monday
+2025-06-21,Entertainment,Gaming Zone,595.09,UPI,Bangalore,Entertainment expense at Gaming Zone,2025,June,Saturday
+2025-10-04,Bills,Internet,2075.28,Debit Card,Pune,Bills expense at Internet,2025,October,Saturday
+2025-03-18,Health,Gym,3198.81,Credit Card,Bangalore,Health expense at Gym,2025,March,Tuesday
+2025-12-08,Travel,Bus,152.15,Credit Card,Delhi,Travel expense at Bus,2025,December,Monday
+2025-04-29,Entertainment,Netflix,1671.23,Cash,Pune,Entertainment expense at Netflix,2025,April,Tuesday
+2026-02-23,Education,Udemy,3976.91,UPI,Delhi,Education expense at Udemy,2026,February,Monday
+2025-06-03,Travel,Bus,2934.15,Cash,Aurangabad,Travel expense at Bus,2025,June,Tuesday
+2025-07-07,Food,Cafe Coffee Day,2572.57,Cash,Delhi,Food expense at Cafe Coffee Day,2025,July,Monday
+2025-02-20,Shopping,Flipkart,3436.36,Credit Card,Mumbai,Shopping expense at Flipkart,2025,February,Thursday
+2026-04-18,Health,Gym,2818.9,Debit Card,Bangalore,Health expense at Gym,2026,April,Saturday
+2025-03-29,Entertainment,Movie,3404.74,Cash,Pune,Entertainment expense at Movie,2025,March,Saturday
+2025-10-27,Bills,Water Bill,3490.69,UPI,Delhi,Bills expense at Water Bill,2025,October,Monday
+2025-05-29,Travel,Bus,3688.21,Credit Card,Pune,Travel expense at Bus,2025,May,Thursday
+2026-04-16,Entertainment,Gaming Zone,4625.55,Credit Card,Pune,Entertainment expense at Gaming Zone,2026,April,Thursday
+2025-03-16,Entertainment,Gaming Zone,1130.26,Cash,Delhi,Entertainment expense at Gaming Zone,2025,March,Sunday
+2025-03-11,Shopping,Amazon,1932.61,UPI,Pune,Shopping expense at Amazon,2025,March,Tuesday
+2025-05-15,Health,Pharmacy,3883.32,UPI,Delhi,Health expense at Pharmacy,2025,May,Thursday
+2025-10-18,Entertainment,Netflix,3407.99,Credit Card,Mumbai,Entertainment expense at Netflix,2025,October,Saturday
+2025-12-03,Food,Swiggy,1570.43,Cash,Mumbai,Food expense at Swiggy,2025,December,Wednesday
+2026-02-19,Shopping,Amazon,3248.09,Cash,Delhi,Shopping expense at Amazon,2026,February,Thursday
+2026-01-17,Entertainment,Movie,3072.49,Credit Card,Aurangabad,Entertainment expense at Movie,2026,January,Saturday
+2026-02-09,Food,Dominos,2161.16,UPI,Bangalore,Food expense at Dominos,2026,February,Monday
+2025-01-04,Travel,Uber,1766.08,Cash,Delhi,Travel expense at Uber,2025,January,Saturday
+2026-01-11,Health,Hospital,3410.84,Cash,Mumbai,Health expense at Hospital,2026,January,Sunday
+2026-01-24,Travel,Bus,253.89,Cash,Bangalore,Travel expense at Bus,2026,January,Saturday
+2025-07-21,Health,Pharmacy,3218.46,UPI,Aurangabad,Health expense at Pharmacy,2025,July,Monday
+2025-10-01,Shopping,Amazon,717.12,Cash,Delhi,Shopping expense at Amazon,2025,October,Wednesday
+2025-04-06,Entertainment,Gaming Zone,3318.13,Credit Card,Delhi,Entertainment expense at Gaming Zone,2025,April,Sunday
+2025-12-18,Bills,Electricity,1831.18,Debit Card,Mumbai,Bills expense at Electricity,2025,December,Thursday
+2026-02-25,Bills,Electricity,1633.87,Debit Card,Mumbai,Bills expense at Electricity,2026,February,Wednesday
+2025-07-17,Shopping,Flipkart,4429.55,UPI,Aurangabad,Shopping expense at Flipkart,2025,July,Thursday
+2025-05-21,Travel,Train,1808.99,Cash,Aurangabad,Travel expense at Train,2025,May,Wednesday
+2025-10-11,Bills,Water Bill,2173.75,Debit Card,Delhi,Bills expense at Water Bill,2025,October,Saturday
+2025-03-06,Education,Books Store,3401.28,Credit Card,Pune,Education expense at Books Store,2025,March,Thursday
+2025-10-01,Travel,Bus,1017.38,Cash,Mumbai,Travel expense at Bus,2025,October,Wednesday
+2025-01-27,Shopping,Amazon,95.5,Credit Card,Delhi,Shopping expense at Amazon,2025,January,Monday
+2025-03-16,Bills,Electricity,1865.44,Debit Card,Pune,Bills expense at Electricity,2025,March,Sunday
+2025-12-22,Travel,Ola,3536.19,Cash,Aurangabad,Travel expense at Ola,2025,December,Monday
+2025-04-14,Shopping,Flipkart,2404.37,Credit Card,Delhi,Shopping expense at Flipkart,2025,April,Monday
+2025-04-08,Travel,Uber,2979.42,Credit Card,Aurangabad,Travel expense at Uber,2025,April,Tuesday
+2026-02-05,Entertainment,Movie,3415.0,Cash,Delhi,Entertainment expense at Movie,2026,February,Thursday
+2025-06-22,Travel,Train,832.29,UPI,Mumbai,Travel expense at Train,2025,June,Sunday
+2026-04-26,Travel,Uber,3583.11,Cash,Pune,Travel expense at Uber,2026,April,Sunday
+2026-01-26,Education,Books Store,1849.74,UPI,Pune,Education expense at Books Store,2026,January,Monday
+2025-02-01,Food,Cafe Coffee Day,3327.61,Debit Card,Mumbai,Food expense at Cafe Coffee Day,2025,February,Saturday
+2025-10-12,Shopping,Mall,1166.28,Debit Card,Aurangabad,Shopping expense at Mall,2025,October,Sunday
+2025-02-21,Health,Gym,1665.37,Credit Card,Aurangabad,Health expense at Gym,2025,February,Friday
+2025-03-01,Shopping,Mall,350.76,Credit Card,Bangalore,Shopping expense at Mall,2025,March,Saturday
+2026-01-18,Shopping,Mall,1413.82,Credit Card,Aurangabad,Shopping expense at Mall,2026,January,Sunday
+2026-01-16,Bills,Water Bill,1473.24,UPI,Pune,Bills expense at Water Bill,2026,January,Friday
+2026-02-14,Health,Hospital,2613.01,Credit Card,Pune,Health expense at Hospital,2026,February,Saturday
+2025-04-22,Shopping,Flipkart,4360.16,Credit Card,Delhi,Shopping expense at Flipkart,2025,April,Tuesday
+2025-02-06,Bills,Electricity,2542.21,UPI,Pune,Bills expense at Electricity,2025,February,Thursday
+2026-01-10,Shopping,Flipkart,3150.9,Debit Card,Mumbai,Shopping expense at Flipkart,2026,January,Saturday
+2025-10-19,Food,Swiggy,4007.11,Debit Card,Pune,Food expense at Swiggy,2025,October,Sunday
+2025-08-25,Education,Coursera,3818.22,Credit Card,Mumbai,Education expense at Coursera,2025,August,Monday
+2026-04-14,Travel,Bus,751.96,Cash,Aurangabad,Travel expense at Bus,2026,April,Tuesday
+2025-03-02,Travel,Ola,2755.49,Debit Card,Delhi,Travel expense at Ola,2025,March,Sunday
+2025-12-13,Shopping,Amazon,823.14,Credit Card,Delhi,Shopping expense at Amazon,2025,December,Saturday
+2025-01-30,Shopping,Amazon,313.08,Cash,Aurangabad,Shopping expense at Amazon,2025,January,Thursday
+2026-03-23,Food,Zomato,2933.61,UPI,Pune,Food expense at Zomato,2026,March,Monday
+2025-10-17,Health,Hospital,4252.3,Debit Card,Delhi,Health expense at Hospital,2025,October,Friday
+2025-06-05,Health,Hospital,3351.18,Cash,Aurangabad,Health expense at Hospital,2025,June,Thursday
+2025-12-01,Entertainment,Gaming Zone,1060.08,UPI,Mumbai,Entertainment expense at Gaming Zone,2025,December,Monday
+2026-03-20,Shopping,Mall,914.33,Debit Card,Bangalore,Shopping expense at Mall,2026,March,Friday
+2025-08-10,Entertainment,Netflix,3338.14,Cash,Mumbai,Entertainment expense at Netflix,2025,August,Sunday
+2025-02-09,Travel,Uber,4963.04,Cash,Mumbai,Travel expense at Uber,2025,February,Sunday
+2025-04-15,Food,Swiggy,4305.7,Debit Card,Delhi,Food expense at Swiggy,2025,April,Tuesday
+2025-03-25,Entertainment,Netflix,4743.26,Debit Card,Delhi,Entertainment expense at Netflix,2025,March,Tuesday
+2026-01-28,Food,Dominos,2649.21,Credit Card,Bangalore,Food expense at Dominos,2026,January,Wednesday
+2025-06-24,Travel,Bus,3523.95,Credit Card,Mumbai,Travel expense at Bus,2025,June,Tuesday
+2025-02-09,Health,Hospital,1566.67,UPI,Delhi,Health expense at Hospital,2025,February,Sunday
+2025-05-21,Bills,Internet,3435.15,Cash,Pune,Bills expense at Internet,2025,May,Wednesday
+2025-09-02,Health,Hospital,1542.59,Cash,Delhi,Health expense at Hospital,2025,September,Tuesday
+2025-10-07,Food,Swiggy,4752.95,Debit Card,Bangalore,Food expense at Swiggy,2025,October,Tuesday
+2025-02-16,Entertainment,Movie,1406.48,Credit Card,Pune,Entertainment expense at Movie,2025,February,Sunday
+2025-02-07,Entertainment,Netflix,2135.47,Debit Card,Delhi,Entertainment expense at Netflix,2025,February,Friday
+2026-01-27,Bills,Electricity,3626.31,UPI,Delhi,Bills expense at Electricity,2026,January,Tuesday
+2025-11-30,Food,Zomato,205.15,UPI,Aurangabad,Food expense at Zomato,2025,November,Sunday
+2025-07-18,Shopping,Mall,1694.92,Cash,Delhi,Shopping expense at Mall,2025,July,Friday
+2025-07-20,Health,Gym,2786.67,UPI,Pune,Health expense at Gym,2025,July,Sunday
+2026-02-17,Entertainment,Gaming Zone,492.62,Credit Card,Bangalore,Entertainment expense at Gaming Zone,2026,February,Tuesday
+2025-09-12,Education,Udemy,2930.37,Cash,Aurangabad,Education expense at Udemy,2025,September,Friday
+2026-03-25,Bills,Electricity,2483.24,Credit Card,Bangalore,Bills expense at Electricity,2026,March,Wednesday
+2025-06-15,Food,Dominos,1337.97,Cash,Pune,Food expense at Dominos,2025,June,Sunday
+2025-04-08,Bills,Water Bill,4620.9,UPI,Mumbai,Bills expense at Water Bill,2025,April,Tuesday
+2025-03-29,Bills,Electricity,4210.87,Cash,Bangalore,Bills expense at Electricity,2025,March,Saturday
+2025-02-13,Health,Pharmacy,185.8,Cash,Pune,Health expense at Pharmacy,2025,February,Thursday
+2025-05-11,Food,Swiggy,4959.0,Debit Card,Aurangabad,Food expense at Swiggy,2025,May,Sunday
+2025-04-27,Shopping,Amazon,3749.64,UPI,Bangalore,Shopping expense at Amazon,2025,April,Sunday
+2026-03-12,Food,Cafe Coffee Day,4538.63,Debit Card,Mumbai,Food expense at Cafe Coffee Day,2026,March,Thursday
+2026-04-13,Entertainment,Gaming Zone,1535.04,Credit Card,Delhi,Entertainment expense at Gaming Zone,2026,April,Monday
+2025-05-18,Education,Coursera,2405.73,UPI,Bangalore,Education expense at Coursera,2025,May,Sunday
+2025-08-31,Education,Books Store,4784.24,Debit Card,Delhi,Education expense at Books Store,2025,August,Sunday
+2025-12-10,Travel,Bus,3056.58,Cash,Aurangabad,Travel expense at Bus,2025,December,Wednesday
+2025-01-11,Food,Zomato,3508.56,Credit Card,Aurangabad,Food expense at Zomato,2025,January,Saturday
+2025-05-02,Travel,Uber,4729.16,UPI,Mumbai,Travel expense at Uber,2025,May,Friday
+2025-09-21,Travel,Bus,1644.34,Credit Card,Delhi,Travel expense at Bus,2025,September,Sunday
+2026-01-12,Health,Hospital,602.37,Cash,Mumbai,Health expense at Hospital,2026,January,Monday
+2025-06-29,Food,Cafe Coffee Day,1847.73,UPI,Bangalore,Food expense at Cafe Coffee Day,2025,June,Sunday
+2025-04-04,Entertainment,Gaming Zone,4034.29,Credit Card,Pune,Entertainment expense at Gaming Zone,2025,April,Friday
+2026-01-20,Entertainment,Gaming Zone,1749.68,Debit Card,Mumbai,Entertainment expense at Gaming Zone,2026,January,Tuesday
+2025-06-14,Education,Books Store,2191.72,Debit Card,Pune,Education expense at Books Store,2025,June,Saturday
+2025-01-10,Entertainment,Netflix,2336.54,Cash,Pune,Entertainment expense at Netflix,2025,January,Friday
+2025-05-28,Shopping,Flipkart,4286.02,Cash,Delhi,Shopping expense at Flipkart,2025,May,Wednesday
+2025-05-17,Health,Hospital,1998.81,Cash,Pune,Health expense at Hospital,2025,May,Saturday
+2026-04-13,Shopping,Flipkart,423.46,Cash,Bangalore,Shopping expense at Flipkart,2026,April,Monday
+2025-03-28,Health,Hospital,3416.63,Debit Card,Bangalore,Health expense at Hospital,2025,March,Friday
+2026-02-03,Shopping,Amazon,1534.37,Cash,Mumbai,Shopping expense at Amazon,2026,February,Tuesday
+2025-03-24,Food,Zomato,4309.26,Cash,Aurangabad,Food expense at Zomato,2025,March,Monday
+2025-06-13,Health,Pharmacy,4664.61,UPI,Mumbai,Health expense at Pharmacy,2025,June,Friday
+2026-03-21,Bills,Water Bill,4925.14,Cash,Bangalore,Bills expense at Water Bill,2026,March,Saturday
+2025-11-02,Bills,Electricity,2758.68,UPI,Pune,Bills expense at Electricity,2025,November,Sunday
+2025-04-12,Education,Udemy,1757.93,Debit Card,Bangalore,Education expense at Udemy,2025,April,Saturday
+2025-04-23,Food,Cafe Coffee Day,4678.98,Credit Card,Bangalore,Food expense at Cafe Coffee Day,2025,April,Wednesday
+2025-07-05,Entertainment,Netflix,3842.61,UPI,Pune,Entertainment expense at Netflix,2025,July,Saturday
+2025-01-15,Bills,Electricity,230.76,Debit Card,Delhi,Bills expense at Electricity,2025,January,Wednesday
+2025-11-15,Education,Coursera,2805.35,Credit Card,Bangalore,Education expense at Coursera,2025,November,Saturday
+2026-01-12,Education,Coursera,4501.51,Cash,Aurangabad,Education expense at Coursera,2026,January,Monday
+2025-04-28,Entertainment,Netflix,3090.73,Credit Card,Pune,Entertainment expense at Netflix,2025,April,Monday
+2025-04-13,Food,Zomato,3585.89,Debit Card,Pune,Food expense at Zomato,2025,April,Sunday
+2026-02-17,Food,Dominos,3552.06,UPI,Aurangabad,Food expense at Dominos,2026,February,Tuesday
+2025-01-12,Travel,Train,2762.8,Credit Card,Mumbai,Travel expense at Train,2025,January,Sunday
+2026-01-09,Travel,Uber,3593.67,Debit Card,Delhi,Travel expense at Uber,2026,January,Friday
+2026-01-15,Entertainment,Netflix,1704.41,UPI,Mumbai,Entertainment expense at Netflix,2026,January,Thursday
+2026-04-06,Travel,Uber,1212.61,Cash,Mumbai,Travel expense at Uber,2026,April,Monday
+2025-02-25,Health,Hospital,2350.77,Cash,Mumbai,Health expense at Hospital,2025,February,Tuesday
+2025-05-02,Bills,Electricity,2378.46,Credit Card,Delhi,Bills expense at Electricity,2025,May,Friday
+2026-02-09,Shopping,Amazon,3546.45,Credit Card,Bangalore,Shopping expense at Amazon,2026,February,Monday
+2025-07-14,Travel,Bus,1625.58,Cash,Mumbai,Travel expense at Bus,2025,July,Monday
+2025-03-14,Health,Hospital,2251.12,Credit Card,Mumbai,Health expense at Hospital,2025,March,Friday
+2025-09-30,Travel,Bus,959.8,Credit Card,Aurangabad,Travel expense at Bus,2025,September,Tuesday
+2025-01-20,Shopping,Mall,3553.04,UPI,Aurangabad,Shopping expense at Mall,2025,January,Monday
+2025-10-02,Entertainment,Movie,2526.71,Cash,Mumbai,Entertainment expense at Movie,2025,October,Thursday
+2025-05-11,Health,Hospital,4388.11,UPI,Aurangabad,Health expense at Hospital,2025,May,Sunday
+2025-12-03,Education,Coursera,646.57,UPI,Pune,Education expense at Coursera,2025,December,Wednesday
+2025-02-22,Education,Books Store,3727.5,Cash,Bangalore,Education expense at Books Store,2025,February,Saturday
+2025-02-18,Health,Hospital,4717.03,UPI,Pune,Health expense at Hospital,2025,February,Tuesday
+2025-01-06,Shopping,Amazon,150.84,Credit Card,Delhi,Shopping expense at Amazon,2025,January,Monday
+2026-01-27,Bills,Internet,966.94,Debit Card,Aurangabad,Bills expense at Internet,2026,January,Tuesday
+2025-04-18,Travel,Uber,595.48,Credit Card,Mumbai,Travel expense at Uber,2025,April,Friday
+2025-04-21,Entertainment,Movie,3103.33,Debit Card,Aurangabad,Entertainment expense at Movie,2025,April,Monday
+2025-05-17,Travel,Uber,1644.78,UPI,Bangalore,Travel expense at Uber,2025,May,Saturday
+2025-12-19,Bills,Electricity,792.61,Credit Card,Bangalore,Bills expense at Electricity,2025,December,Friday
+2025-09-01,Food,Zomato,3560.62,UPI,Aurangabad,Food expense at Zomato,2025,September,Monday
+2025-01-20,Travel,Train,3194.98,Debit Card,Aurangabad,Travel expense at Train,2025,January,Monday
+2025-04-12,Travel,Bus,2110.73,UPI,Bangalore,Travel expense at Bus,2025,April,Saturday
+2026-04-11,Shopping,Amazon,3678.45,UPI,Pune,Shopping expense at Amazon,2026,April,Saturday
+2025-10-23,Bills,Electricity,4770.34,Credit Card,Bangalore,Bills expense at Electricity,2025,October,Thursday
+2025-06-16,Bills,Electricity,4914.82,Credit Card,Mumbai,Bills expense at Electricity,2025,June,Monday
+2025-01-21,Bills,Water Bill,596.58,Debit Card,Delhi,Bills expense at Water Bill,2025,January,Tuesday
+2026-03-01,Entertainment,Netflix,4573.85,Credit Card,Delhi,Entertainment expense at Netflix,2026,March,Sunday
+2025-10-01,Food,Cafe Coffee Day,3456.74,Cash,Aurangabad,Food expense at Cafe Coffee Day,2025,October,Wednesday
+2026-03-12,Travel,Train,2218.98,Debit Card,Mumbai,Travel expense at Train,2026,March,Thursday
+2026-03-31,Food,Cafe Coffee Day,4372.21,UPI,Mumbai,Food expense at Cafe Coffee Day,2026,March,Tuesday
+2025-04-21,Bills,Water Bill,4157.23,UPI,Bangalore,Bills expense at Water Bill,2025,April,Monday
+2025-08-11,Shopping,Flipkart,4095.11,Credit Card,Aurangabad,Shopping expense at Flipkart,2025,August,Monday
+2025-10-04,Health,Gym,1179.84,UPI,Mumbai,Health expense at Gym,2025,October,Saturday
+2025-08-05,Education,Coursera,3949.5,Cash,Aurangabad,Education expense at Coursera,2025,August,Tuesday
+2025-01-03,Shopping,Flipkart,4491.82,Credit Card,Bangalore,Shopping expense at Flipkart,2025,January,Friday
+2025-05-20,Education,Udemy,109.59,Credit Card,Bangalore,Education expense at Udemy,2025,May,Tuesday
+2025-05-31,Shopping,Flipkart,4439.45,Credit Card,Aurangabad,Shopping expense at Flipkart,2025,May,Saturday
+2025-02-25,Shopping,Mall,1422.72,Cash,Bangalore,Shopping expense at Mall,2025,February,Tuesday
+2025-11-05,Education,Udemy,1171.89,UPI,Pune,Education expense at Udemy,2025,November,Wednesday
+2025-01-09,Travel,Uber,1393.53,UPI,Delhi,Travel expense at Uber,2025,January,Thursday
+2025-09-28,Education,Udemy,4002.74,Credit Card,Aurangabad,Education expense at Udemy,2025,September,Sunday
+2025-05-15,Entertainment,Netflix,745.84,Credit Card,Mumbai,Entertainment expense at Netflix,2025,May,Thursday
+2026-03-28,Entertainment,Netflix,4225.57,Debit Card,Mumbai,Entertainment expense at Netflix,2026,March,Saturday
+2025-07-13,Health,Hospital,1150.08,UPI,Delhi,Health expense at Hospital,2025,July,Sunday
+2025-02-21,Education,Books Store,1707.04,Debit Card,Bangalore,Education expense at Books Store,2025,February,Friday
+2025-01-04,Health,Hospital,1549.49,UPI,Aurangabad,Health expense at Hospital,2025,January,Saturday
